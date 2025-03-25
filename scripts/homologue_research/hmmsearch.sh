@@ -17,6 +17,6 @@ for protfile in /shared/home/asandri/MAHABIO/data/contigs_translated/contigs_tra
     seqkit seq -m 30 -M 100000 "$protfile" > "$filtered"
 
     # hmmsearch sur le fichier filtré
-    hmmsearch --tblout ../../results/hmm/"${base}_filtered_hits.tbl" --domtblout ../../results/hmm/"${base}_filtered_hits.domtbl ../../results/hmm/cmuA.hmm "$filtered"
+    hmmsearch --tblout "../../results/hmm/${base}_filtered_hits.tbl" --domtblout "../../results/hmm/${base}_filtered_hits.domtbl" ../../results/hmm/cmuA.hmm "$filtered"
 
 done
