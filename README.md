@@ -10,20 +10,22 @@ This document summarizes the bioinformatics analyses conducted in the MAHABIO pr
 
 ### 1.1 Search for CmuA and HmtA homologues
 
-* **Goal:** Detect homologous sequences of chloromethane degradation genes CmuA and HmtA in metagenomic assemblies. See adjacent genes and check where are we located accordingtoo phylogenetic tree 
-* **Input:** Contigs translated into protein sequences using Prodigal.
-* **Tool/Package:** MAFFT, HMMER (hmmbuild, hmmsearch), BLAST+, PSI-BLAST
+* **Goal:** Detect homologous sequences of chloromethane degradation genes CmuA and HmtA in metagenomic assemblies and in reads before assembly. See adjacent genes. Check where are we located according phylogenetic tree 
+* **Input:**Contigs as fasta files to translate into protein sequences using Prodigal, fasta file of reference CmuA protein sequences and hmtA gene + protein sequences
+* **Tool/Package:** MAFFT, HMMER (hmmbuild, hmmsearch), transeq/seqkit/biopython, BLAST+, PSI-BLAST
 * **Reference Sequences:** Provided protein FASTA files for CmuA, HmtA, and gene sequences for HmtA.
 * **Steps:**
-  * Align reference protein sequences (CmuA/HmtA) using MAFFT.
+  * Align reference protein sequences (CmuA/HmtA) using MAFFT  
   * Build profile HMM using `hmmbuild`.
-  * Predict protein sequences from contigs using Prodigal.
+  * Predict protein sequences from contigs using transeq/seqkit/biopython
   * Search predicted proteins using `hmmsearch` or PSI-BLAST with custom PSSM.
 * **Parameters:**
   * MAFFT: `--auto`
   * HMMER: default parameters, `--tblout` for summary output
   * PSI-BLAST: `-num_iterations 3`, `-evalue 1e-5`, `-outfmt 6`
-* **Output:** List of detected homologous sequences with scores, identities, and e-values.
+* **Output:** fasta file of ref sequences alignement , HMM profile, List of detected homologous sequences with scores, identities, and e-values.
+
+**Current status:** contigs translation with transeq ongoing. Nextstep: need to check difference between the  3 translation method 
 
 ## 2. Metagenomic Binning (MAG Reconstruction)
 

@@ -1,0 +1,12 @@
+Fatal exception (source file p7_pipeline.c, line 714):
+Target sequence length > 100K, over comparison pipeline limit.
+(Did you mean to use nhmmer/nhmmscan?)
+/var/spool/slurmd/job344538/slurm_script: line 11: 1808797 Aborted                 (core dumped) hmmsearch --tblout ../../results/hmm/"${base}_hits.tbl" ../../results/hmm/cmuA.hmm "$protfile"
+Fatal exception (source file p7_pipeline.c, line 714):
+Target sequence length > 100K, over comparison pipeline limit.
+(Did you mean to use nhmmer/nhmmscan?)
+/var/spool/slurmd/job344538/slurm_script: line 11: 1808809 Aborted                 (core dumped) hmmsearch --tblout ../../results/hmm/"${base}_hits.tbl" ../../results/hmm/cmuA.hmm "$protfile"
+Fatal exception (source file p7_pipeline.c, line 714):
+Target sequence length > 100K, over comparison pipeline limit.
+(Did you mean to use nhmmer/nhmmscan?)
+/var/spool/slurmd/job344538/slurm_script: line 11: 1808822 Aborted                 (core dumped) hmmsearch --tblout ../../results/hmm/"${base}_hits.tbl" ../../results/hmm/cmuA.hmm "$protfile"
