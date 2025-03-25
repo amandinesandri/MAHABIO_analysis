@@ -25,9 +25,34 @@ This document summarizes the bioinformatics analyses conducted in the MAHABIO pr
   * PSI-BLAST: `-num_iterations 3`, `-evalue 1e-5`, `-outfmt 6`
 * **Output:** fasta file of ref sequences alignement , HMM profile, List of detected homologous sequences with scores, identities, and e-values.
 
+Current status: hits extracted for contigs to analyse , research on reads before assembly
 
 ### 1.2 Search the reference organism of chloromethane utilization: Methylobacterium Extorquence CM4
+1.2 Search the reference organism of chloromethane utilization: Methylorubrum extorquens CM4
+* **Goal:** Detect the presence of Methylorubrum extorquens CM4 (reference strain for chloromethane degradation via the cmu pathway) in metagenomic data, by identifying contigs, reads, or MAGs taxonomically assigned to this strain or very close taxa. Compare with the literature reference (e.g. Bringel et al., 2019) to check if we recovered this key strain in our dataset.
+* **Input:**Assembled contigs in FASTA format, Translated protein sequences from contigs and long/short reads, MAGs if available, NCBI RefSeq genome/proteome for M. extorquens CM4 (downloaded from NCBI), Taxonomic database (e.g. GTDB, Kraken2 DB, or NCBI nt/nr)
+* **Tool/Package:**  BLAST+ (blastn, blastp, tblastn), Kraken2 or Kaiju (for read-based or contig-level taxonomic assignment), GTDB-Tk (if working with MAGs), fastANI (optional: for genome similarity check), Prokka (optional: for MAG annotation)
+* **Steps:**
+  * Download the complete genome/proteome of M. extorquens CM4 from NCBI
+  * Index the reference genome/proteome for BLAST
+  * Search contigs or translated proteins using blastn or blastp against CM4 sequences
+  * (Optional) Run Kraken2/Kaiju on reads or contigs for taxonomic assignment
+  * Search MAGs with GTDB-Tk to see if one or more bins cluster near M. extorquens
+  * Use ANI (fastANI) to compare any MAGs to CM4 genome for similarity >95%
+* **Parameters:**
+  * blastn: -evalue 1e-10 -outfmt 6
+  * blastp: -evalue 1e-10 -outfmt 6
+  * Kraken2: default database, or custom DB with CM4 included
+  * GTDB-Tk: standard classification workflow on MAGs
+  * fastANI: genome-to-genome identity threshold >95%
+* **Output:** .
+BLAST hit table of contigs or proteins matching CM4 sequences
+List of contigs or MAGs assigned to M. extorquens or close relatives
+ANI score (if available) of best MAG compared to CM4
+Summary report: evidence of CM4 presence or absence in dataset
 
+
+### 1.3 Research on NCBI database 
 * **Goal:** 
 * **Input:**
 * **Tool/Package:** 
