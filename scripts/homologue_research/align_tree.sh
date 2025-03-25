@@ -9,8 +9,13 @@ source activate mahabio_env
 
 mkdir ../../results/hmm/tree
 
+
+
 cat ../../results/hmm/hits/*_hits.faa /shared/home/asandri/MAHABIO/data/cmuaA_seq_prot.fasta > ../../results/hmm/tree/all_CmuA.fasta
-
-mafft --auto ../../results/hmm/tree/all_CmuA.fasta > ../../results/hmm/tree/aligned_all_CmuA.fasta
-
+seqkit replace -p '\*' -r '' ../../results/hmm/tree/all_CmuA.fasta > ../../results/hmm/tree/all_CmuA_cleaned.faa
+mafft --auto ../../results/hmm/tree/all_CmuA_cleaned.faa > ../../results/hmm/tree/aligned_all_CmuA.fasta
 FastTree -lg ../../results/hmm/tree/aligned_all_CmuA.fasta > ../../results/hmm/tree/CmuA_tree.nwk
+
+#cat ../../results/hmm/hits/C*_hits.faa /shared/home/asandri/MAHABIO/data/cmuaA_seq_prot.fasta > ../../results/hmm/tree/C_and_ref_CmuA.fasta
+#mafft --auto ../../results/hmm/tree/C_and_ref_CmuA.fasta > ../../results/hmm/tree/aligned_C_and_ref_CmuA.fasta
+#FastTree -lg ../../results/hmm/tree/aligned_C_and_ref_CmuA.fasta > ../../results/hmm/tree/CmuA_C_ref_tree.nwk
