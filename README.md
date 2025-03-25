@@ -6,9 +6,9 @@ Materials and Methods for MAHABIO Project
 
 This document summarizes the bioinformatics analyses conducted in the MAHABIO project. Each section corresponds to a specific type of analysis with the tested parameters.
 
-## 1. Functional Gene Homologue Search
+## 1.  Search data of referene and interest
 
-### 1.1 Search for CmuA and HmtA homologues
+### 1.1 Search Functional Gene  CmuA and HmtA homologues
 
 * **Goal:** Detect homologous sequences of chloromethane degradation genes CmuA and HmtA in metagenomic assemblies and in reads before assembly. See adjacent genes. Check where are we located according phylogenetic tree 
 * **Input:**Contigs as fasta files to translate into protein sequences using Prodigal, fasta file of reference CmuA protein sequences and hmtA gene + protein sequences
@@ -25,7 +25,21 @@ This document summarizes the bioinformatics analyses conducted in the MAHABIO pr
   * PSI-BLAST: `-num_iterations 3`, `-evalue 1e-5`, `-outfmt 6`
 * **Output:** fasta file of ref sequences alignement , HMM profile, List of detected homologous sequences with scores, identities, and e-values.
 
-**Current status:** contigs translation with transeq ongoing. Nextstep: need to check difference between the  3 translation method 
+
+### 1.2 Search the reference organism of chloromethane utilization: Methylobacterium Extorquence CM4
+
+* **Goal:** 
+* **Input:**
+* **Tool/Package:** 
+* **Reference Sequences:** 
+* **Steps:**
+
+* **Parameters:**
+
+* **Output:** .
+
+
+
 
 ## 2. Metagenomic Binning (MAG Reconstruction)
 
