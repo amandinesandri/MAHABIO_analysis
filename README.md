@@ -52,7 +52,18 @@ ANI score (if available) of best MAG compared to CM4
 Summary report: evidence of CM4 presence or absence in dataset
 
 
-### 1.3 Research on NCBI database 
+### 1.3 Global Research on NCBI database 
+* **Goal:** 
+* **Input:**
+* **Tool/Package:** 
+* **Reference Sequences:** 
+* **Steps:**
+
+* **Parameters:**
+
+* **Output:** .
+
+### 1.4 Look at adjacent gene
 * **Goal:** 
 * **Input:**
 * **Tool/Package:** 
