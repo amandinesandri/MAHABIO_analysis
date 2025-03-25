@@ -8,12 +8,6 @@
 
 module load hmmer
 
-for protfile in /shared/home/asandri/MAHABIO/data/contigs_translated/contigs_translated_seqkit/*.faa; do
-    base=$(basename "$protfile" .faa)
-
-    # hmmsearch sur le fichier filtré
-    hmmsearch --tblout ../../results/hmm/"${base}_hits.tbl" ../../results/hmm/cmuA.hmm "$protfile"
-done
 
 for protfile in /shared/home/asandri/MAHABIO/data/contigs_translated/contigs_translated_seqkit/*.faa; do
     base=$(basename "$protfile" .faa)
