@@ -42,7 +42,7 @@ Sj|ctg000000293      -          cmuA_aligned         -              0.032   11.3
 # Pipeline mode:   SEARCH
 # Query file:      ../../results/hmm/cmuA.hmm
 # Target file:     /shared/home/asandri/MAHABIO/data/contigs_translated/contigs_translated_seqkit/Sj_contigs_more_than_300bp_translated_filtered.faa
-# Option settings: hmmsearch --tblout ../../results/hmm/Sj_contigs_more_than_300bp_translated_filtered_hits.tbl ../../results/hmm/cmuA.hmm /shared/home/asandri/MAHABIO/data/contigs_translated/contigs_translated_seqkit/Sj_contigs_more_than_300bp_translated_filtered.faa 
+# Option settings: hmmsearch --tblout ../../results/hmm/Sj_contigs_more_than_300bp_translated_filtered_hits.tbl --domtblout ../../results/hmm/Sj_contigs_more_than_300bp_translated_filtered_hits.domtbl ../../results/hmm/cmuA.hmm /shared/home/asandri/MAHABIO/data/contigs_translated/contigs_translated_seqkit/Sj_contigs_more_than_300bp_translated_filtered.faa 
 # Current dir:     /shared/home/asandri/MAHABIO_analysis/scripts/homologue_research
-# Date:            Tue Mar 25 09:39:21 2025
+# Date:            Tue Mar 25 16:50:40 2025
 # [ok]

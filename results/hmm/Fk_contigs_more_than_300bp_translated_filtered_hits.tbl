@@ -15,7 +15,7 @@ Fk|ctg000000199      -          cmuA_aligned         -            4.1e-06   22.6
 # Pipeline mode:   SEARCH
 # Query file:      ../../results/hmm/cmuA.hmm
 # Target file:     /shared/home/asandri/MAHABIO/data/contigs_translated/contigs_translated_seqkit/Fk_contigs_more_than_300bp_translated_filtered.faa
-# Option settings: hmmsearch --tblout ../../results/hmm/Fk_contigs_more_than_300bp_translated_filtered_hits.tbl ../../results/hmm/cmuA.hmm /shared/home/asandri/MAHABIO/data/contigs_translated/contigs_translated_seqkit/Fk_contigs_more_than_300bp_translated_filtered.faa 
+# Option settings: hmmsearch --tblout ../../results/hmm/Fk_contigs_more_than_300bp_translated_filtered_hits.tbl --domtblout ../../results/hmm/Fk_contigs_more_than_300bp_translated_filtered_hits.domtbl ../../results/hmm/cmuA.hmm /shared/home/asandri/MAHABIO/data/contigs_translated/contigs_translated_seqkit/Fk_contigs_more_than_300bp_translated_filtered.faa 
 # Current dir:     /shared/home/asandri/MAHABIO_analysis/scripts/homologue_research
-# Date:            Tue Mar 25 09:39:18 2025
+# Date:            Tue Mar 25 16:50:24 2025
 # [ok]

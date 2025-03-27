@@ -1,0 +1,24 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Fk|ctg000000279      -          47400 cmuA_aligned         -            521   4.5e-60  200.7   0.1   1   1   3.4e-62   6.8e-60  200.1   0.1   104   513 28390 29043 28364 29045 0.72 -
+Fk|ctg000000030      -           6263 cmuA_aligned         -            521   5.7e-51  170.7   3.1   1   1   4.3e-53   8.7e-51  170.1   3.1   306   493  5654  5838  5650  5869 0.92 -
+Fk|ctg000000011      -          11594 cmuA_aligned         -            521   9.3e-17   57.8   0.0   1   1   6.5e-19   1.3e-16   57.3   0.0     3   283  7628  7955  7620  7987 0.80 -
+Fk|ctg000000273      -          22473 cmuA_aligned         -            521   6.3e-12   41.8   0.9   1   2      0.57   1.2e+02   -1.9   0.2   293   333 17691 17732 17653 17734 0.75 -
+Fk|ctg000000273      -          22473 cmuA_aligned         -            521   6.3e-12   41.8   0.9   2   2   6.6e-14   1.3e-11   40.8   0.0   293   512 20330 20550 20265 20554 0.88 -
+Fk|ctg000000273      -          22473 cmuA_aligned         -            521     8e-12   41.5   0.9   1   2      0.57   1.2e+02   -1.9   0.2   293   333  1722  1763  1684  1765 0.75 -
+Fk|ctg000000273      -          22473 cmuA_aligned         -            521     8e-12   41.5   0.9   2   2   6.6e-14   1.3e-11   40.8   0.0   293   512  4361  4581  4296  4585 0.88 -
+Fk|ctg000000086      -          10658 cmuA_aligned         -            521   4.3e-11   39.1   1.3   1   1   2.8e-13   5.6e-11   38.7   1.3   389   483  8544  8639  8541  8650 0.89 -
+Fk|ctg000000258      -          49379 cmuA_aligned         -            521   3.7e-06   22.8   0.1   1   1   2.7e-08   5.4e-06   22.3   0.1   292   453 39469 39628 39416 39664 0.84 -
+Fk|ctg000000199      -          84808 cmuA_aligned         -            521   4.1e-06   22.6   0.1   1   2   4.2e-07   8.5e-05   18.3   0.1   423   503 17364 17453 17358 17464 0.81 -
+Fk|ctg000000199      -          84808 cmuA_aligned         -            521   4.1e-06   22.6   0.1   2   2     0.041       8.4    1.8   0.0    36   270 43281 43559 43275 43578 0.64 -
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      ../../results/hmm/cmuA.hmm
+# Target file:     /shared/home/asandri/MAHABIO/data/contigs_translated/contigs_translated_seqkit/Fk_contigs_more_than_300bp_translated_filtered.faa
+# Option settings: hmmsearch --tblout ../../results/hmm/Fk_contigs_more_than_300bp_translated_filtered_hits.tbl --domtblout ../../results/hmm/Fk_contigs_more_than_300bp_translated_filtered_hits.domtbl ../../results/hmm/cmuA.hmm /shared/home/asandri/MAHABIO/data/contigs_translated/contigs_translated_seqkit/Fk_contigs_more_than_300bp_translated_filtered.faa 
+# Current dir:     /shared/home/asandri/MAHABIO_analysis/scripts/homologue_research
+# Date:            Tue Mar 25 16:50:24 2025
+# [ok]
