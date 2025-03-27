@@ -17,7 +17,8 @@ def parse_domtbl(domtbl_file, evalue_cutoff=1e-5, coverage_min=0.5):
             aln_len = abs(ali_end - ali_start) + 1
             coverage = aln_len / full_seq_len
 
-            if evalue <= evalue_cutoff and coverage >= coverage_min:
+            #if evalue <= evalue_cutoff and coverage >= coverage_min:
+            if True:
                 hits[target_id] = (ali_start, ali_end)
     return hits
 

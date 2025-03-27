@@ -7,12 +7,12 @@
 
 source activate mahabio_env
 
-mkdir -p ../../results/hmm_matched
+mkdir -p ../../results/hmm/hmm_matched
 
 for domtbl in ../../results/hmm/*_hits.domtbl; do
     base=$(basename "$domtbl" _hits.domtbl)
-    faa="/shared/home/asandri/MAHABIO/data/contigs_translated/contigs_translated_seqkit/${base}_filtered.faa"
-    output="../../results/hmm_matched/${base}_matched.faa"
+    faa="/shared/home/asandri/MAHABIO/data/contigs_translated/contigs_translated_seqkit/${base}.faa"
+    output="../../results/hmm/hmm_matched/${base}_matched.faa"
 
     python extract_matched_regions.py "$domtbl" "$faa" "$output"
 done
