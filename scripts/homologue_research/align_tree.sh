@@ -21,7 +21,7 @@ mkdir ../../results/hmm/tree
 
 
 
-cat ../../results/hmm_matched/*_matched.faa  /shared/home/asandri/MAHABIO/data/cmuaA_seq_prot.fasta > ../../results/hmm/tree/all_CmuA.fasta
+cat ../../results/hmm/hmm_matched/*_matched.faa  /shared/home/asandri/MAHABIO/data/cmuaA_seq_prot.fasta > ../../results/hmm/tree/all_CmuA.fasta
 #seqkit replace -p '\*' -r '' ../../results/hmm/tree/all_CmuA.fasta > ../../results/hmm/tree/all_CmuA_cleaned.faa
-mafft --auto ../../results/hmm/tree/all_CmuA.faa > ../../results/hmm/tree/aligned_all_CmuA.fasta
+mafft --auto ../../results/hmm/tree/all_CmuA.fasta > ../../results/hmm/tree/aligned_all_CmuA.fasta
 FastTree -lg ../../results/hmm/tree/aligned_all_CmuA.fasta > ../../results/hmm/tree/CmuA_tree.nwk
