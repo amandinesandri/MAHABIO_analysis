@@ -17,15 +17,37 @@ This document summarizes the bioinformatics analyses conducted in the MAHABIO pr
 * **Steps:**
   * Align reference protein sequences (CmuA/HmtA) using MAFFT  
   * Build profile HMM using `hmmbuild`.
-  * Predict protein sequences from contigs using transeq/seqkit/biopython
-  * Search predicted proteins using `hmmsearch` or PSI-BLAST with custom PSSM.
+  * Predict protein sequences from contigs using seqkit
+  * Search predicted proteins using `hmmsearch` and save the resulting HMM tables.
+  * Extract regions that match to create fasta of them to analyse phylogenetic tree along with reference sequences used to build the profile.  
 * **Parameters:**
   * MAFFT: `--auto`
-  * HMMER: default parameters, `--tblout` for summary output
-  * PSI-BLAST: `-num_iterations 3`, `-evalue 1e-5`, `-outfmt 6`
-* **Output:** fasta file of ref sequences alignement , HMM profile, List of detected homologous sequences with scores, identities, and e-values.
+  * HMMER: default parameters, `--tblout` and `domtblout` for summary output
+* **Output:** fasta file of ref sequences alignement , HMM profile , List of detected homologous sequences with scores, identities, and e-values.
 
-Current status: hits extracted for contigs to analyse , research on reads before assembly
+
+## Next steps / To test / Follow-up
+
+Possible next steps:
+- [ ] Homologous genz research for hmtA in contigs + raw data 
+- [ ] Homologous gene research for CmuA in raw data 
+- [ ] Calculate informative metrics such as ANI
+- [ ] Make observations of which gene are surronding functionnal genes of interest  
+
+- [ ] assign taxonomy to contigs where cmuA have been detected 
+- [ ] Vérifier si les MAGs avec cmuA contiennent aussi des gènes de la publication
+- [ ] Parsing HMM table to have a summary of relevant info about  detected hits. 
+
+To discuss with Françoise:
+- [ ] Very low quanitty of hits detected in Fk and Sj .. -> we keep them all ?
+- [ ] No hit cmuA extrated as match from domtbl  so I remove coverage threshold 0.5 in extraction , 
+- [ ] All samples CmuA hits sequences + CmuA reference sequences have been aigned and represented on a tree.
+
+Ideas:
+- [ ] homologue research process to be automated to save time in case this analysis is tested many times (to validate tunning parameters of a step by comparing output data. Foor example, using  MAGs output to compare  binning methods and parameters)
+
+----------
+
 
 ### 1.2 Search the reference organism of chloromethane utilization: Methylobacterium Extorquence CM4
 1.2 Search the reference organism of chloromethane utilization: Methylorubrum extorquens CM4
@@ -50,30 +72,6 @@ BLAST hit table of contigs or proteins matching CM4 sequences
 List of contigs or MAGs assigned to M. extorquens or close relatives
 ANI score (if available) of best MAG compared to CM4
 Summary report: evidence of CM4 presence or absence in dataset
-
-
-### 1.3 Global Research on NCBI database 
-* **Goal:** 
-* **Input:**
-* **Tool/Package:** 
-* **Reference Sequences:** 
-* **Steps:**
-
-* **Parameters:**
-
-* **Output:** .
-
-### 1.4 Look at adjacent gene
-* **Goal:** 
-* **Input:**
-* **Tool/Package:** 
-* **Reference Sequences:** 
-* **Steps:**
-
-* **Parameters:**
-
-* **Output:** .
-
 
 
 
@@ -113,18 +111,3 @@ Summary report: evidence of CM4 presence or absence in dataset
   * Input: directory with MAGs
   * Output: tabular summary of completeness and contamination
 * **Output:** Table with completeness, contamination, marker lineage, etc.
-
-## General Metadata for Each Analysis
-
-* **Dataset Used:** (e.g., `C_contigs_more_than_300bp.fasta`, `Fk_proteins.faa`, etc.)
-* **Date of Execution:** Indicate the date the analysis was run.
-* **Software Version:** Include version numbers (e.g., MAFFT 7.505, HMMER 3.4)
-* **Environment:** Local (Ubuntu 20.04), Cluster (SLURM-based), KBase (cloud platform)
-
-> This document will be updated iteratively as new analyses are performed or refined.
-
-Feel free to suggest additions or reorganizations depending on future developments.
-
-
-
-
