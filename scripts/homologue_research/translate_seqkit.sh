@@ -11,5 +11,8 @@ mkdir -p /shared/home/asandri/MAHABIO/data/contigs_translated/contigs_translated
 
 for fasta in /shared/home/asandri/MAHABIO/data/*contigs*.fasta; do
     base=$(basename "$fasta" .fasta)
-    seqkit translate --frame 6 -o "/shared/home/asandri/MAHABIO/data/contigs_translated/contigs_translated_seqkit/${base}_translated.faa" "$fasta"
+    #seqkit translate --frame 6 -o "/shared/home/asandri/MAHABIO/data/contigs_translated/contigs_translated_seqkit/${base}_translated.faa" "$fasta"
+    seqkit translate --frame 6 -p -i -o "/shared/home/asandri/MAHABIO/data/contigs_translated/contigs_translated_seqkit/${base}_translated.faa" "$fasta"
+
+
 done
