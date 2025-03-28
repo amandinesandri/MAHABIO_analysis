@@ -1,0 +1,13 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      results/hmm/cmuA.hmm
+# Target file:     /shared/home/asandri/MAHABIO/data/refseq_bacteria.faa
+# Option settings: hmmsearch --tblout results/hmm/QC/cmuA_refseq_ncbi.tbl --domtblout results/hmm/QC/cmuA_refseq_ncbi.domtbl --cpu 4 results/hmm/cmuA.hmm /shared/home/asandri/MAHABIO/data/refseq_bacteria.faa 
+# Current dir:     /shared/home/asandri/MAHABIO_analysis
+# Date:            Fri Mar 28 14:03:59 2025
+# [ok]

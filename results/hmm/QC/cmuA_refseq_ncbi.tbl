@@ -1,0 +1,13 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      results/hmm/cmuA.hmm
+# Target file:     /shared/home/asandri/MAHABIO/data/refseq_bacteria.faa
+# Option settings: hmmsearch --tblout results/hmm/QC/cmuA_refseq_ncbi.tbl --domtblout results/hmm/QC/cmuA_refseq_ncbi.domtbl --cpu 4 results/hmm/cmuA.hmm /shared/home/asandri/MAHABIO/data/refseq_bacteria.faa 
+# Current dir:     /shared/home/asandri/MAHABIO_analysis
+# Date:            Fri Mar 28 14:03:59 2025
+# [ok]

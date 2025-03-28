@@ -1,0 +1,6 @@
+
+ERROR: Failed to parse command line: No such option "-n".
+Usage: hmmemit [-options] <hmmfile (single)>
+
+To see more help on available options, do hmmemit -h
+
