@@ -28,6 +28,14 @@ This document summarizes the bioinformatics analyses conducted in the MAHABIO pr
 
 ## Next steps / To test / Follow-up
 
+Immediate actions:
+- Check if consensus CmuaA is robust with 1) qulity control of hhmm research on initial ref seq and 2) research on NCBI results are consistant with the spcies of reference provided initially
+- length of consensus
+- hmmsearch sur quels critères pour identifier un hit?
+- Identify UNQUE CmuA hits :  which criteria ?
+- tables in excel Format for Françoise
+
+
 Possible next steps:
 - [ ] Homologous genz research for hmtA in contigs + raw data 
 - [ ] Homologous gene research for CmuA in raw data 
