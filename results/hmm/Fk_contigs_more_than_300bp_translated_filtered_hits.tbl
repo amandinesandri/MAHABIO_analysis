@@ -1,14 +1,14 @@
-#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
-# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
-#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
-Fk|ctg000000279      -          cmuA_aligned         -            4.5e-60  200.7   0.1   6.8e-60  200.1   0.1   1.2   1   0   0   1   1   1   1 -
-Fk|ctg000000030      -          cmuA_aligned         -            5.7e-51  170.7   3.1   8.7e-51  170.1   3.1   1.1   1   0   0   1   1   1   1 -
-Fk|ctg000000011      -          cmuA_aligned         -            9.3e-17   57.8   0.0   1.3e-16   57.3   0.0   1.1   1   0   0   1   1   1   1 -
-Fk|ctg000000273      -          cmuA_aligned         -            6.3e-12   41.8   0.9   1.3e-11   40.8   0.0   1.8   2   0   0   2   2   2   1 -
-Fk|ctg000000273      -          cmuA_aligned         -              8e-12   41.5   0.9   1.3e-11   40.8   0.0   1.6   2   0   0   2   2   2   1 -
-Fk|ctg000000086      -          cmuA_aligned         -            4.3e-11   39.1   1.3   5.6e-11   38.7   1.3   1.1   1   0   0   1   1   1   1 -
-Fk|ctg000000258      -          cmuA_aligned         -            3.7e-06   22.8   0.1   5.4e-06   22.3   0.1   1.1   1   0   0   1   1   1   1 -
-Fk|ctg000000199      -          cmuA_aligned         -            4.1e-06   22.6   0.1   8.5e-05   18.3   0.1   2.1   2   0   0   2   2   2   1 -
+#                                                                  --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name           accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#   ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+Fk|ctg000000279_seq1674 -          cmuA_aligned         -            4.5e-60  200.7   0.1   6.8e-60  200.1   0.1   1.2   1   0   0   1   1   1   1 -
+Fk|ctg000000030_seq175  -          cmuA_aligned         -            5.7e-51  170.7   3.1   8.7e-51  170.1   3.1   1.1   1   0   0   1   1   1   1 -
+Fk|ctg000000011_seq63   -          cmuA_aligned         -            9.3e-17   57.8   0.0   1.3e-16   57.3   0.0   1.1   1   0   0   1   1   1   1 -
+Fk|ctg000000273_seq1633 -          cmuA_aligned         -            6.3e-12   41.8   0.9   1.3e-11   40.8   0.0   1.8   2   0   0   2   2   2   1 -
+Fk|ctg000000273_seq1636 -          cmuA_aligned         -              8e-12   41.5   0.9   1.3e-11   40.8   0.0   1.6   2   0   0   2   2   2   1 -
+Fk|ctg000000086_seq512  -          cmuA_aligned         -            4.3e-11   39.1   1.3   5.6e-11   38.7   1.3   1.1   1   0   0   1   1   1   1 -
+Fk|ctg000000258_seq1547 -          cmuA_aligned         -            3.7e-06   22.8   0.1   5.4e-06   22.3   0.1   1.1   1   0   0   1   1   1   1 -
+Fk|ctg000000199_seq1194 -          cmuA_aligned         -            4.1e-06   22.6   0.1   8.5e-05   18.3   0.1   2.1   2   0   0   2   2   2   1 -
 #
 # Program:         hmmsearch
 # Version:         3.4 (Aug 2023)
@@ -17,5 +17,5 @@ Fk|ctg000000199      -          cmuA_aligned         -            4.1e-06   22.6
 # Target file:     /shared/home/asandri/MAHABIO/data/contigs_translated/contigs_translated_seqkit/Fk_contigs_more_than_300bp_translated_filtered.faa
 # Option settings: hmmsearch --tblout ../../results/hmm/Fk_contigs_more_than_300bp_translated_filtered_hits.tbl --domtblout ../../results/hmm/Fk_contigs_more_than_300bp_translated_filtered_hits.domtbl ../../results/hmm/cmuA.hmm /shared/home/asandri/MAHABIO/data/contigs_translated/contigs_translated_seqkit/Fk_contigs_more_than_300bp_translated_filtered.faa 
 # Current dir:     /shared/home/asandri/MAHABIO_analysis/scripts/homologue_research
-# Date:            Tue Mar 25 16:50:24 2025
+# Date:            Thu Mar 27 10:36:14 2025
 # [ok]
