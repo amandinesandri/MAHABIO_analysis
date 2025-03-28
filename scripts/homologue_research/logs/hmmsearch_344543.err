@@ -1,9 +1,0 @@
-[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
-Failed to open tabular per-seq output file ../../results/hmmsearch/C_contigs_more_than_300bp_translated_hits.tbl for writing
-
-[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
-Failed to open tabular per-seq output file ../../results/hmmsearch/Fk_contigs_more_than_300bp_translated_hits.tbl for writing
-
-[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
-Failed to open tabular per-seq output file ../../results/hmmsearch/Sj_contigs_more_than_300bp_translated_hits.tbl for writing
-
