@@ -26,17 +26,19 @@ This document summarizes the bioinformatics analyses conducted in the MAHABIO pr
 * **Output:** fasta file of ref sequences alignement , HMM profile , List of detected homologous sequences with scores, identities, and e-values.
 
 
-## Next steps / To test / Follow-up
+## Done / Next steps / To test / Follow-up
+
+Done: 
+- Check if consensus CmuaA is robust with 1) qulity control of hhmm research on initial ref seq and 2) research on NCBI results are consistant with the spcies of reference provided initially
+- length of consensus: modèle cmuA.hmm contient 521 positions de correspondance (match states)
 
 Immediate actions:
-- Check if consensus CmuaA is robust with 1) qulity control of hhmm research on initial ref seq and 2) research on NCBI results are consistant with the spcies of reference provided initially
-- length of consensus
 - hmmsearch sur quels critères pour identifier un hit?
 - Identify UNQUE CmuA hits :  which criteria ?
 - tables in excel Format for Françoise
 
 
-Possible next steps:
+Next steps:
 - [ ] Homologous genz research for hmtA in contigs + raw data 
 - [ ] Homologous gene research for CmuA in raw data 
 - [ ] Calculate informative metrics such as ANI
@@ -45,14 +47,17 @@ Possible next steps:
 - [ ] assign taxonomy to contigs where cmuA have been detected 
 - [ ] Vérifier si les MAGs avec cmuA contiennent aussi des gènes de la publication
 - [ ] Parsing HMM table to have a summary of relevant info about  detected hits. 
+- [ ] Vérification de la présence du cluster cmuBCA
+- [ ] Comparaison de la syntenie, présence sur plasmides vs chromosomes
+- [ ] Alignement des hits avec un clade de référence (e.g. sensu stricto, cmuA-like, cmuA-anaérobie)
+- [ ] Construction d’arbre phylogénétique pour classification fonctionnelle
 
-To discuss with Françoise:
+On going:
 - [ ] Very low quanitty of hits detected in Fk and Sj .. -> we keep them all ?
 - [ ] No hit cmuA extrated as match from domtbl  so I remove coverage threshold 0.5 in extraction , 
 - [ ] All samples CmuA hits sequences + CmuA reference sequences have been aigned and represented on a tree.
 
-Ideas:
-- [ ] homologue research process to be automated to save time in case this analysis is tested many times (to validate tunning parameters of a step by comparing output data. Foor example, using  MAGs output to compare  binning methods and parameters)
+
 
 ----------
 
