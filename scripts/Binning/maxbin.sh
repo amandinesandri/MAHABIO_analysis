@@ -7,35 +7,39 @@
 #SBATCH --cpus-per-task=8
 #SBATCH --array=0-2
 
+source ~/.bashrc
+conda activate mahabio_env
 
-source activate mahabio_env
+# Liste des fichiers d'entrée
+contig_files=(
+  "/shared/home/asandri/MAHABIO/data/C_contigs_more_than_300bp.fasta"
+  "/shared/home/asandri/MAHABIO/data/Sj_contigs_more_than_300bp.fasta"
+  "/shared/home/asandri/MAHABIO/data/Fk_contigs_more_than_300bp.fasta"
+)
 
+depth_files=(
+  "/shared/home/asandri/MAHABIO_analysis/results/coverage/C_contigs_more_than_300bp_sorted.depth.txt"
+  "/shared/home/asandri/MAHABIO_analysis/results/coverage/Sj_contigs_more_than_300bp_sorted.depth.txt"
+  "/shared/home/asandri/MAHABIO_analysis/results/coverage/Fk_contigs_more_than_300bp_sorted.depth.txt"
+)
 
-# Liste des fichiers d'entrée (fichier contigs et fichier couverture)
-contig_files=("/shared/home/asandri/MAHABIO/data/C_contigs_more_than_300bp.fasta" "/shared/home/asandri/MAHABIO/data/Sj_contigs_more_than_300bp.fasta" "/shared/home/asandri/MAHABIO/data/Fk_contigs_more_than_300bp.fasta")
-depth_files=("/shared/home/asandri/MAHABIO_analysis/results/coverage/C_contigs_more_than_300bp_sorted.depth.txt" "/shared/home/asandri/MAHABIO_analysis/results/coverage/Sj_contigs_more_than_300bp_sorted.depth.txt" "/shared/home/asandri/MAHABIO_analysis/results/coverage/Fk_contigs_more_than_300bp_sorted.depth.txt")
+# Sélection de l'indice de tâche courant
+i=$SLURM_ARRAY_TASK_ID
 
+CTG="${contig_files[$i]}"
+DEPTH="${depth_files[$i]}"
+BASENAME=$(basename "$CTG" .fasta)
 
-# Création du dossier de sortie
-
+# Dossier de sortie
 OUTDIR="/shared/home/asandri/MAHABIO_analysis/results/binning/maxbin"
+SUBDIR="${OUTDIR}/${BASENAME}"
+mkdir -p "$SUBDIR"
 
-mkdir -p ${OUTDIR}
-cd ${OUTDIR}
+echo "Traitement de $BASENAME"
 
-for i in "${!contig_files[@]}"; do
-  CTG="${contig_files[$i]}"
-  DEPTH="${depth_files[$i]}"
-  BASENAME=$(basename "$CTG" .fasta)
-
-  # Création du sous-dossier de sortie
-  SUBDIR="${OUTDIR}/${BASENAME}"
-  mkdir -p "$SUBDIR"
-
-  # Lancement de MaxBin2
-  run_MaxBin.pl \
-    -contig "$CTG" \
-    -abund "$DEPTH" \
-    -out "${SUBDIR}/${BASENAME}_maxbin" \
-    -thread 8
-done
+# Lancement de MaxBin2
+run_MaxBin.pl \
+  -contig "$CTG" \
+  -abund "$DEPTH" \
+  -out "${SUBDIR}/${BASENAME}_maxbin" \
+  -thread 8
