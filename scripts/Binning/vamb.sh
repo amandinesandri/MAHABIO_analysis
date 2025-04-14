@@ -5,13 +5,16 @@
 #SBATCH --cpus-per-task=16
 #SBATCH --mem=64G
 #SBATCH --time=24:00:00
+#SBATCH --array=0-2
+
 
 # Activation de l'environnement conda contenant VAMB
 source activate vamb_env  # ou le nom de ton env contenant VAMB
 
 # Paramètres
 contig_files=("/shared/home/asandri/MAHABIO/data/C_contigs_more_than_300bp.fasta" "/shared/home/asandri/MAHABIO/data/Sj_contigs_more_than_300bp.fasta" "/shared/home/asandri/MAHABIO/data/Fk_contigs_more_than_300bp.fasta")
-BAM_DIR=("/shared/home/asandri/MAHABIO_analysis/results/coverage/C_contigs_more_than_300bp.bam" "/shared/home/asandri/MAHABIO_analysis/results/coverage/Sj_contigs_more_than_300bp.bam" "/shared/home/asandri/MAHABIO_analysis/results/coverage/Fk_contigs_more_than_300bp.bam")  # Dossier contenant les fichiers BAM
+BAM_DIR=("/shared/home/asandri/MAHABIO_analysis/results/coverage/C_contigs_more_than_300bp_sorted.bam" "/shared/home/asandri/MAHABIO_analysis/results/coverage/Sj_contigs_more_than_300bp_sorted.bam" "/shared/home/asandri/MAHABIO_analysis/results/coverage/Fk_contigs_more_than_300bp_sorted.bam")
+
 OUTDIR="/shared/home/asandri/MAHABIO_analysis/results/binning/vamb"
 
 mkdir -p ${OUTDIR}
