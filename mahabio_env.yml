@@ -13,3 +13,5 @@ dependencies:
   - biopython
   - pandas
   - numpy
+  - maxbin2
+  - semibin

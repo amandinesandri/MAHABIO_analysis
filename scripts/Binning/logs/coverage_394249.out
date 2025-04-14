@@ -1,0 +1,11 @@
+/shared/home/asandri/MAHABIO_analysis/scripts/Binning
+### Indexation de /shared/home/asandri/MAHABIO/data/C_contigs_more_than_300bp.fasta avec BWA
+### Alignement des reads de C_contigs_more_than_300bp
+### Tri et indexation
+### Alignement de /shared/home/asandri/MAHABIO/data/Sj.fastq.gz sur /shared/home/asandri/MAHABIO/data/Sj_contigs_more_than_300bp.fasta avec minimap2
+### Tri et indexation
+### Alignement de /shared/home/asandri/MAHABIO/data/Fk.fastq.gz sur /shared/home/asandri/MAHABIO/data/Fk_contigs_more_than_300bp.fasta avec minimap2
+### Tri et indexation
+Traitement de Sj_contigs_more_than_300bp.bam...
+Traitement de Fk_contigs_more_than_300bp.bam...
+Traitement de C_contigs_more_than_300bp.bam...
