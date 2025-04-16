@@ -7,28 +7,39 @@
 #SBATCH --time=24:00:00
 #SBATCH --array=0-2
 
-
 # Activation de l'environnement conda
 source activate mahabio_env
 
-# Définition des fichiers
-contig_files=("/shared/home/asandri/MAHABIO/data/C_contigs_more_than_300bp.fasta" "/shared/home/asandri/MAHABIO/data/Sj_contigs_more_than_300bp.fasta" "/shared/home/asandri/MAHABIO/data/Fk_contigs_more_than_300bp.fasta")
-bam_files=("/shared/home/asandri/MAHABIO_analysis/results/coverage/C_contigs_more_than_300bp_sorted.bam" "/shared/home/asandri/MAHABIO_analysis/results/coverage/Sj_contigs_more_than_300bp_sorted.bam" "/shared/home/asandri/MAHABIO_analysis/results/coverage/Fk_contigs_more_than_300bp_sorted.bam")
+# Paramètres
+contig_files=(
+  "/shared/home/asandri/MAHABIO/data/C_contigs_more_than_300bp.fasta"
+  "/shared/home/asandri/MAHABIO/data/Sj_contigs_more_than_300bp.fasta"
+  "/shared/home/asandri/MAHABIO/data/Fk_contigs_more_than_300bp.fasta"
+)
 
-OUTDIR="/shared/home/asandri/MAHABIO_analysis/results/binning/semibin"
-mkdir -p ${OUTDIR}
+bam_files=(
+  "/shared/home/asandri/MAHABIO_analysis/results/coverage/C_contigs_more_than_300bp_sorted.bam"
+  "/shared/home/asandri/MAHABIO_analysis/results/coverage/Sj_contigs_more_than_300bp_sorted.bam"
+  "/shared/home/asandri/MAHABIO_analysis/results/coverage/Fk_contigs_more_than_300bp_sorted.bam"
+)
 
-for i in "${!contig_files[@]}"; do
-  CTG="${contig_files[$i]}"
-  BAM="${bam_files[$i]}"
-  BASENAME=$(basename "$CTG" .fasta)
+# Index de tâche SLURM
+i=$SLURM_ARRAY_TASK_ID
 
-  echo "Traitement de $BASENAME avec SemiBin..."
+CTG="${contig_files[$i]}"
+BAM="${bam_files[$i]}"
+BASENAME=$(basename "$CTG" .fasta)
+OUTDIR="/shared/home/asandri/MAHABIO_analysis/results/binning/semibin/${BASENAME}"
 
-  semibin single_easy_bin \
-    --contig "$CTG" \
-    --bam "$BAM" \
-    --outdir "${OUTDIR}/${BASENAME}" \
-    --threads 16 \
-    --environment soil
-done
+mkdir -p "$OUTDIR"
+
+echo "=== Traitement de $BASENAME avec SemiBin ==="
+
+semibin single_easy_bin \
+  --contig "$CTG" \
+  --bam "$BAM" \
+  --outdir "$OUTDIR" \
+  --threads 16 \
+  --environment soil
+
+echo "=== Fin du traitement de $BASENAME ==="

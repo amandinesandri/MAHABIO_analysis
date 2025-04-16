@@ -1,30 +1,45 @@
 #!/bin/bash
 #SBATCH --job-name=vamb
-#SBATCH --output=logs/vamb.out
-#SBATCH --error=logs/vamb.err
+#SBATCH --output=logs/vamb_%A_%a.out
+#SBATCH --error=logs/vamb_%A_%a.err
 #SBATCH --cpus-per-task=16
 #SBATCH --mem=64G
 #SBATCH --time=24:00:00
 #SBATCH --array=0-2
 
-
 # Activation de l'environnement conda contenant VAMB
-source activate vamb_env  # ou le nom de ton env contenant VAMB
+source activate vamb_env
 
 # Paramètres
-contig_files=("/shared/home/asandri/MAHABIO/data/C_contigs_more_than_300bp.fasta" "/shared/home/asandri/MAHABIO/data/Sj_contigs_more_than_300bp.fasta" "/shared/home/asandri/MAHABIO/data/Fk_contigs_more_than_300bp.fasta")
-BAM_DIR=("/shared/home/asandri/MAHABIO_analysis/results/coverage/C_contigs_more_than_300bp_sorted.bam" "/shared/home/asandri/MAHABIO_analysis/results/coverage/Sj_contigs_more_than_300bp_sorted.bam" "/shared/home/asandri/MAHABIO_analysis/results/coverage/Fk_contigs_more_than_300bp_sorted.bam")
+contig_files=(
+  "/shared/home/asandri/MAHABIO/data/C_contigs_more_than_300bp.fasta"
+  "/shared/home/asandri/MAHABIO/data/Sj_contigs_more_than_300bp.fasta"
+  "/shared/home/asandri/MAHABIO/data/Fk_contigs_more_than_300bp.fasta"
+)
 
-OUTDIR="/shared/home/asandri/MAHABIO_analysis/results/binning/vamb"
+bam_files=(
+  "/shared/home/asandri/MAHABIO_analysis/results/coverage/C_contigs_more_than_300bp_sorted.bam"
+  "/shared/home/asandri/MAHABIO_analysis/results/coverage/Sj_contigs_more_than_300bp_sorted.bam"
+  "/shared/home/asandri/MAHABIO_analysis/results/coverage/Fk_contigs_more_than_300bp_sorted.bam"
+)
 
-mkdir -p ${OUTDIR}
-cd ${OUTDIR}
+# Index de tâche SLURM
+i=$SLURM_ARRAY_TASK_ID
 
-for i in "${!contig_files[@]}"; do
-     # Création du fichier de profil de couverture au format VAMB
-     echo "Création du fichier .tsv de profils de couverture"
-     vamb --outdir "$OUTDIR" --fasta "${contigs_files[$i]}" \
-          --bamfiles "${BAM_DIR[$i]}" \
-          --minfasta 200000 \
-          --threads 16
-done
+CTG="${contig_files[$i]}"
+BAM="${bam_files[$i]}"
+BASENAME=$(basename "$CTG" .fasta)
+
+OUTDIR="/shared/home/asandri/MAHABIO_analysis/results/binning/vamb/${BASENAME}"
+mkdir -p "$OUTDIR"
+cd "$OUTDIR"
+
+echo "=== Traitement de $BASENAME avec VAMB ==="
+
+vamb --outdir "$OUTDIR" \
+     --fasta "$CTG" \
+     --bamfiles "$BAM" \
+     --minfasta 200000 \
+     --threads 16
+
+echo "=== Fin du traitement de $BASENAME ==="
