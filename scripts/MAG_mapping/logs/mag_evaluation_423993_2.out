@@ -1,0 +1,7 @@
+=== Lancement CompareM Amerged_MAG_infoAI pour semibin/Fk_contigs_more_than_300bp ===
+[2025-05-02 04:29:18] INFO: CompareM v0.1.2
+[2025-05-02 04:29:18] INFO: comparem aai_wf /shared/home/asandri/MAHABIO_analysis/results/binning/dRep/semibin/Fk_contigs_more_than_300bp/dereplicated_genomes /shared/home/asandri/MAHABIO_analysis/results/binning/CompareM/semibin/Fk_contigs_more_than_300bp --cpus 16
+[2025-05-02 04:29:18] WARNING: No genomes found in directory: /shared/home/asandri/MAHABIO_analysis/results/binning/dRep/semibin/Fk_contigs_more_than_300bp/dereplicated_genomes. Check the --file_ext flag used to identify genomes.
+
+  Controlled exit resulting from an unrecoverable error or warning.
+=== FIN TACHE semibin/Fk_contigs_more_than_300bp ===

@@ -1,0 +1,8 @@
+  File "/shared/home/asandri/MAHABIO_analysis/scripts/16S_detection/16S_eval/filter_divergent_bins.py", line 22
+    continue
+    ^
+IndentationError: expected an indented block after 'if' statement on line 21
+  File "/shared/home/asandri/MAHABIO_analysis/scripts/16S_detection/16S_eval/compute_identity_matrix.py", line 36
+    print(f"⚠️ r2 du record:  {r2} ")
+    ^
+IndentationError: expected an indented block after 'for' statement on line 35

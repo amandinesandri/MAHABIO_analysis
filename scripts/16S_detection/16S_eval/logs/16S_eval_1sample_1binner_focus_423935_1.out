@@ -1,0 +1,24 @@
+🚀 Début du job array 1
+🔍 [semibin/Fk_contigs_more_than_300bp] Filtrage des bins divergents
+🧬 [semibin/Fk_contigs_more_than_300bp] Alignement par bin
+🧬 Alignement MAFFT : semibin_Fk_contigs_more_than_300bp_0_16S_extracted.fasta
+✅ Fichier aligné sauvegardé dans : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_evaluation/aligned/Fk_contigs_more_than_300bp/semibin/semibin_Fk_contigs_more_than_300bp_0_aligned.fasta
+🧬 Alignement MAFFT : semibin_Fk_contigs_more_than_300bp_4_16S_extracted.fasta
+✅ Fichier aligné sauvegardé dans : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_evaluation/aligned/Fk_contigs_more_than_300bp/semibin/semibin_Fk_contigs_more_than_300bp_4_aligned.fasta
+🧬 Alignement MAFFT : semibin_Fk_contigs_more_than_300bp_10_16S_extracted.fasta
+✅ Fichier aligné sauvegardé dans : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_evaluation/aligned/Fk_contigs_more_than_300bp/semibin/semibin_Fk_contigs_more_than_300bp_10_aligned.fasta
+⚠️  Moins de 2 séquences dans semibin_Fk_contigs_more_than_300bp_13_16S_extracted.fasta, alignement MAFFT ignoré.
+🧬 Alignement MAFFT : semibin_Fk_contigs_more_than_300bp_15_16S_extracted.fasta
+✅ Fichier aligné sauvegardé dans : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_evaluation/aligned/Fk_contigs_more_than_300bp/semibin/semibin_Fk_contigs_more_than_300bp_15_aligned.fasta
+⚠️  Moins de 2 séquences dans semibin_Fk_contigs_more_than_300bp_16_16S_extracted.fasta, alignement MAFFT ignoré.
+🖼️ [semibin/Fk_contigs_more_than_300bp] Génération des visualisations
+✅ Visualisation sauvegardée : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_evaluation/plots/Fk_contigs_more_than_300bp/semibin/semibin_Fk_contigs_more_than_300bp_0_alignment.png
+✅ Visualisation sauvegardée : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_evaluation/plots/Fk_contigs_more_than_300bp/semibin/semibin_Fk_contigs_more_than_300bp_4_alignment.png
+✅ Visualisation sauvegardée : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_evaluation/plots/Fk_contigs_more_than_300bp/semibin/semibin_Fk_contigs_more_than_300bp_10_alignment.png
+✅ Visualisation sauvegardée : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_evaluation/plots/Fk_contigs_more_than_300bp/semibin/semibin_Fk_contigs_more_than_300bp_15_alignment.png
+📊 [semibin/Fk_contigs_more_than_300bp] Calcul des matrices d'identité
+✅ Matrice d'identité sauvegardée : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_evaluation/identity/Fk_contigs_more_than_300bp/semibin/semibin_Fk_contigs_more_than_300bp_0_identity_matrix.tsv
+✅ Matrice d'identité sauvegardée : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_evaluation/identity/Fk_contigs_more_than_300bp/semibin/semibin_Fk_contigs_more_than_300bp_4_identity_matrix.tsv
+✅ Matrice d'identité sauvegardée : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_evaluation/identity/Fk_contigs_more_than_300bp/semibin/semibin_Fk_contigs_more_than_300bp_10_identity_matrix.tsv
+✅ Matrice d'identité sauvegardée : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_evaluation/identity/Fk_contigs_more_than_300bp/semibin/semibin_Fk_contigs_more_than_300bp_15_identity_matrix.tsv
+✅ [semibin/Fk_contigs_more_than_300bp] Terminé

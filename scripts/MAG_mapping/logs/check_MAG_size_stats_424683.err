@@ -1,0 +1,20 @@
+Traceback (most recent call last):
+  File "/shared/home/asandri/MAHABIO_analysis/scripts/MAG_mapping/2-1-MAG_size_stat.py", line 56, in <module>
+    plt.savefig(output_plot, dpi=300)
+  File "/shared/home/asandri/miniforge3/envs/mahabio_env/lib/python3.10/site-packages/matplotlib/pyplot.py", line 1243, in savefig
+    res = fig.savefig(*args, **kwargs)  # type: ignore[func-returns-value]
+  File "/shared/home/asandri/miniforge3/envs/mahabio_env/lib/python3.10/site-packages/matplotlib/figure.py", line 3490, in savefig
+    self.canvas.print_figure(fname, **kwargs)
+  File "/shared/home/asandri/miniforge3/envs/mahabio_env/lib/python3.10/site-packages/matplotlib/backend_bases.py", line 2184, in print_figure
+    result = print_method(
+  File "/shared/home/asandri/miniforge3/envs/mahabio_env/lib/python3.10/site-packages/matplotlib/backend_bases.py", line 2040, in <lambda>
+    print_method = functools.wraps(meth)(lambda *args, **kwargs: meth(
+  File "/shared/home/asandri/miniforge3/envs/mahabio_env/lib/python3.10/site-packages/matplotlib/backends/backend_agg.py", line 481, in print_png
+    self._print_pil(filename_or_obj, "png", pil_kwargs, metadata)
+  File "/shared/home/asandri/miniforge3/envs/mahabio_env/lib/python3.10/site-packages/matplotlib/backends/backend_agg.py", line 430, in _print_pil
+    mpl.image.imsave(
+  File "/shared/home/asandri/miniforge3/envs/mahabio_env/lib/python3.10/site-packages/matplotlib/image.py", line 1644, in imsave
+    image.save(fname, **pil_kwargs)
+  File "/shared/home/asandri/miniforge3/envs/mahabio_env/lib/python3.10/site-packages/PIL/Image.py", line 2591, in save
+    fp = builtins.open(filename, "w+b")
+FileNotFoundError: [Errno 2] No such file or directory: '/shared/home/asandri/MAHABIO_analysis/results/MAG_mappings/Distribution_taille_MAGs.png'

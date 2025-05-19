@@ -1,0 +1,16 @@
+⏱️ Job lancé le : 2025-05-01 15:03:42
+📦 Préparation des extractions 16S...
+📝 Liste des samples :
+semibin/C_contigs_more_than_300bp
+semibin/Fk_contigs_more_than_300bp
+semibin/Sj_contigs_more_than_300bp
+maxbin/C_contigs_more_than_300bp
+vamb/C_contigs_more_than_300bp
+vamb/Fk_contigs_more_than_300bp
+vamb/Sj_contigs_more_than_300bp
+📈 Nombre d'échantillons trouvés : 7
+🚀 Lancement du job array...
+Submitted batch job 423901
+✅ Tout est lancé proprement.
+✅ Job terminé le : 2025-05-01 15:03:42
+⏳ Durée totale : 0h 0min 0s

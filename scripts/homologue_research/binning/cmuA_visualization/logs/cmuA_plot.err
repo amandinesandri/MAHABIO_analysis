@@ -1,0 +1,2 @@
+/shared/home/asandri/MAHABIO_analysis/scripts/homologue_research/binning/cmuA_visualization/plot_cmuA_orfs.py:23: UserWarning: Setting the 'color' property will override the edgecolor or facecolor properties.
+  arrow = patches.FancyArrow(

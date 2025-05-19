@@ -1,0 +1,55 @@
+***************************************************
+    ..:: dRep dereplicate Step 1. Filter ::..
+***************************************************
+    
+Will filter the genome list
+33 genomes were input to dRep
+Calculating genome info of genomes
+42.42% of genomes passed length filtering
+Running prodigal
+Running checkM
+28.57% of genomes passed checkM filtering
+***************************************************
+    ..:: dRep dereplicate Step 2. Cluster ::..
+***************************************************
+    
+Running primary clustering
+Running pair-wise MASH clustering
+4 primary clusters made
+Running secondary clustering
+Running 4 fastANI comparisons- should take ~ 0.4 min
+Step 4. Return output
+***************************************************
+    ..:: dRep dereplicate Step 3. Choose ::..
+***************************************************
+    
+Loading work directory
+***************************************************
+    ..:: dRep dereplicate Step 4. Evaluate ::..
+***************************************************
+    
+will produce Widb (winner information db)
+Winner database saved to /shared/home/asandri/MAHABIO_analysis/results/binning/dRep/vamb/Fk_contigs_more_than_300bpdata_tables/Widb.csv
+***************************************************
+    ..:: dRep dereplicate Step 5. Analyze ::..
+***************************************************
+    
+making plots 1, 2, 3, 4, 5, 6
+Plotting primary dendrogram
+Plotting secondary dendrograms
+Plotting MDS plot
+Plotting scatterplots
+Plotting bin scorring plot
+Plotting winning genomes plot...
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+    ..:: dRep dereplicate finished ::..
+
+Dereplicated genomes................. /shared/home/asandri/MAHABIO_analysis/results/binning/dRep/vamb/Fk_contigs_more_than_300bp/dereplicated_genomes/
+Dereplicated genomes information..... /shared/home/asandri/MAHABIO_analysis/results/binning/dRep/vamb/Fk_contigs_more_than_300bp/data_tables/Widb.csv
+Figures.............................. /shared/home/asandri/MAHABIO_analysis/results/binning/dRep/vamb/Fk_contigs_more_than_300bp/figures/
+Warnings............................. /shared/home/asandri/MAHABIO_analysis/results/binning/dRep/vamb/Fk_contigs_more_than_300bp/log/warnings.txt
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+    

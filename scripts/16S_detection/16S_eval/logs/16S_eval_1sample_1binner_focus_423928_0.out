@@ -1,0 +1,10 @@
+🚀 Début du job array 0
+🔍 [semibin/C_contigs_more_than_300bp] Filtrage des bins divergents
+🧬 [semibin/C_contigs_more_than_300bp] Alignement par bin
+🧬 Alignement MAFFT : semibin_C_contigs_more_than_300bp_19_16S_extracted.fasta
+✅ Fichier aligné sauvegardé dans : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_evaluation/aligned/C_contigs_more_than_300bp/semibin/semibin_C_contigs_more_than_300bp_19_aligned.fasta
+🖼️ [semibin/C_contigs_more_than_300bp] Génération des visualisations
+✅ Visualisation sauvegardée : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_evaluation/plots/C_contigs_more_than_300bp/semibin/semibin_C_contigs_more_than_300bp_19_alignment.png
+📊 [semibin/C_contigs_more_than_300bp] Calcul des matrices d'identité
+⚠️ Pas assez de séquences dans semibin_C_contigs_more_than_300bp_19_aligned.fasta pour calculer une matrice.
+✅ [semibin/C_contigs_more_than_300bp] Terminé

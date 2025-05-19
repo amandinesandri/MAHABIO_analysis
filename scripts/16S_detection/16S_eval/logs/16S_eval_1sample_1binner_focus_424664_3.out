@@ -1,0 +1,15 @@
+🚀 Début du job array 3
+🔍 [maxbin/C_contigs_more_than_300bp] Filtrage des bins divergents
+🧬 [maxbin/C_contigs_more_than_300bp] Alignement par bin
+⚠️  Moins de 2 séquences dans maxbin_C_contigs_more_than_300bp_010_16S_extracted.fasta, alignement MAFFT ignoré.
+🧬 Alignement MAFFT : maxbin_C_contigs_more_than_300bp_015_16S_extracted.fasta
+✅ Fichier aligné sauvegardé dans : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_evaluation/aligned/C_contigs_more_than_300bp/maxbin/maxbin_C_contigs_more_than_300bp_015_aligned.fasta
+⚠️  Moins de 2 séquences dans maxbin_C_contigs_more_than_300bp_005_16S_extracted.fasta, alignement MAFFT ignoré.
+🧬 Alignement MAFFT : maxbin_C_contigs_more_than_300bp_007_16S_extracted.fasta
+✅ Fichier aligné sauvegardé dans : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_evaluation/aligned/C_contigs_more_than_300bp/maxbin/maxbin_C_contigs_more_than_300bp_007_aligned.fasta
+⚠️  Moins de 2 séquences dans maxbin_C_contigs_more_than_300bp_014_16S_extracted.fasta, alignement MAFFT ignoré.
+🖼️ [maxbin/C_contigs_more_than_300bp] Génération des visualisations
+✅ Visualisation sauvegardée : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_evaluation/plots/C_contigs_more_than_300bp/maxbin/maxbin_C_contigs_more_than_300bp_015_alignment.png
+✅ Visualisation sauvegardée : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_evaluation/plots/C_contigs_more_than_300bp/maxbin/maxbin_C_contigs_more_than_300bp_007_alignment.png
+📊 [maxbin/C_contigs_more_than_300bp] Calcul des matrices d'identité
+✅ [maxbin/C_contigs_more_than_300bp] Terminé

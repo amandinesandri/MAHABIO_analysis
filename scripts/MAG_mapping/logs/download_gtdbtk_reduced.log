@@ -1,0 +1,26 @@
+🚀 Démarrage du téléchargement GTDB-Tk reduced avec aria2...
+
+05/02 03:55:31 [[1;32mNOTICE[0m] Downloading 1 item(s)
+[#be951e 0B/0B CN:1 DL:0B]
+[#be951e 0B/0B CN:1 DL:0B]
+[#be951e 0B/0B CN:1 DL:0B]
+
+05/02 03:55:34 [[1;31mERROR[0m] CUID#7 - Download aborted. URI=https://data.gtdb.ecogenomic.org/releases/release226/226.0/auxillary_files/gtdbtk_r226_msa_reduced.tar.gz
+Exception: [AbstractCommand.cc:351] errorCode=3 URI=https://data.gtdb.ecogenomic.org/releases/release226/226.0/auxillary_files/gtdbtk_r226_msa_reduced.tar.gz
+  -> [HttpSkipResponseCommand.cc:218] errorCode=3 Resource not found
+
+05/02 03:55:34 [[1;32mNOTICE[0m] Download GID#be951eea3e60bc0a not complete: 
+
+Download Results:
+gid   |stat|avg speed  |path/URI
+======+====+===========+=======================================================
+be951e|ERR |       0B/s|https://data.gtdb.ecogenomic.org/releases/release226/226.0/auxillary_files/gtdbtk_r226_msa_reduced.tar.gz
+
+Status Legend:
+(ERR):error occurred.
+
+aria2 will resume download if the transfer is restarted.
+If there are any errors, then see the log file. See '-l' option in help/man page for details.
+📦 Extraction de l’archive...
+✅ Téléchargement terminé. Tu peux exporter GTDBTK_DATA_PATH :
+export GTDBTK_DATA_reduced_PATH=/shared/home/asandri/MAHABIO_analysis/ressources/gtdbtk_data/gtdbtk_msa_reduced/gtdbtk_msa_reduced

@@ -1,0 +1,24 @@
+✅ Job SLURM démarré : Task ID 60
+🧬 Activation de l'environnement Conda
+🔧 Chargement des modules minimap2, bwa, samtools
+📂 Construction de la liste des MAGs
+🔍 MAG sélectionné : SemiBin_25.fa.gz
+📌 Méthode : semibin | Échantillon : Sj
+📥 Reads short : /shared/home/asandri/MAHABIO/data//Sj_R1.fastq.gz / /shared/home/asandri/MAHABIO/data//Sj_R2.fastq.gz
+📥 Reads long  : /shared/home/asandri/MAHABIO/data//Sj.fastq.gz
+📦 Détection du format du MAG
+🗜️ Décompression de /shared/home/asandri/MAHABIO_analysis/results/binning//semibin/Sj_contigs_more_than_300bp/output_bins/SemiBin_25.fa.gz
+temp_SemiBin_25.fa
+temp_SemiBin_25
+temp_SemiBin_25
+temp_SemiBin_25
+🔄 Mapping des long reads avec minimap2
+
+
+🔄 Indexation BWA
+
+🔄 Mapping des short reads avec BWA MEM
+
+
+🧹 Nettoyage : suppression temp_SemiBin_25.fa
+✅ Terminé : MAG SemiBin_25.fa.gz aligné et BAMs créés pour Sj (TaskID=60)

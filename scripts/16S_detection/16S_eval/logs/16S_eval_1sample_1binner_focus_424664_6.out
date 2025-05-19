@@ -1,0 +1,55 @@
+🚀 Début du job array 6
+🔍 [vamb/Sj_contigs_more_than_300bp] Filtrage des bins divergents
+🧬 [vamb/Sj_contigs_more_than_300bp] Alignement par bin
+⚠️  Moins de 2 séquences dans vamb_Sj_contigs_more_than_300bp_50_16S_extracted.fasta, alignement MAFFT ignoré.
+🧬 Alignement MAFFT : vamb_Sj_contigs_more_than_300bp_178_16S_extracted.fasta
+✅ Fichier aligné sauvegardé dans : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_evaluation/aligned/Sj_contigs_more_than_300bp/vamb/vamb_Sj_contigs_more_than_300bp_178_aligned.fasta
+🧬 Alignement MAFFT : vamb_Sj_contigs_more_than_300bp_11_16S_extracted.fasta
+✅ Fichier aligné sauvegardé dans : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_evaluation/aligned/Sj_contigs_more_than_300bp/vamb/vamb_Sj_contigs_more_than_300bp_11_aligned.fasta
+⚠️  Moins de 2 séquences dans vamb_Sj_contigs_more_than_300bp_28_16S_extracted.fasta, alignement MAFFT ignoré.
+🧬 Alignement MAFFT : vamb_Sj_contigs_more_than_300bp_74_16S_extracted.fasta
+✅ Fichier aligné sauvegardé dans : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_evaluation/aligned/Sj_contigs_more_than_300bp/vamb/vamb_Sj_contigs_more_than_300bp_74_aligned.fasta
+🧬 Alignement MAFFT : vamb_Sj_contigs_more_than_300bp_62_16S_extracted.fasta
+✅ Fichier aligné sauvegardé dans : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_evaluation/aligned/Sj_contigs_more_than_300bp/vamb/vamb_Sj_contigs_more_than_300bp_62_aligned.fasta
+🧬 Alignement MAFFT : vamb_Sj_contigs_more_than_300bp_113_16S_extracted.fasta
+✅ Fichier aligné sauvegardé dans : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_evaluation/aligned/Sj_contigs_more_than_300bp/vamb/vamb_Sj_contigs_more_than_300bp_113_aligned.fasta
+🧬 Alignement MAFFT : vamb_Sj_contigs_more_than_300bp_32_16S_extracted.fasta
+✅ Fichier aligné sauvegardé dans : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_evaluation/aligned/Sj_contigs_more_than_300bp/vamb/vamb_Sj_contigs_more_than_300bp_32_aligned.fasta
+🧬 Alignement MAFFT : vamb_Sj_contigs_more_than_300bp_170_16S_extracted.fasta
+✅ Fichier aligné sauvegardé dans : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_evaluation/aligned/Sj_contigs_more_than_300bp/vamb/vamb_Sj_contigs_more_than_300bp_170_aligned.fasta
+🧬 Alignement MAFFT : vamb_Sj_contigs_more_than_300bp_17_16S_extracted.fasta
+✅ Fichier aligné sauvegardé dans : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_evaluation/aligned/Sj_contigs_more_than_300bp/vamb/vamb_Sj_contigs_more_than_300bp_17_aligned.fasta
+🧬 Alignement MAFFT : vamb_Sj_contigs_more_than_300bp_182_16S_extracted.fasta
+✅ Fichier aligné sauvegardé dans : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_evaluation/aligned/Sj_contigs_more_than_300bp/vamb/vamb_Sj_contigs_more_than_300bp_182_aligned.fasta
+⚠️  Moins de 2 séquences dans vamb_Sj_contigs_more_than_300bp_189_16S_extracted.fasta, alignement MAFFT ignoré.
+⚠️  Moins de 2 séquences dans vamb_Sj_contigs_more_than_300bp_183_16S_extracted.fasta, alignement MAFFT ignoré.
+🧬 Alignement MAFFT : vamb_Sj_contigs_more_than_300bp_5_16S_extracted.fasta
+✅ Fichier aligné sauvegardé dans : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_evaluation/aligned/Sj_contigs_more_than_300bp/vamb/vamb_Sj_contigs_more_than_300bp_5_aligned.fasta
+🧬 Alignement MAFFT : vamb_Sj_contigs_more_than_300bp_264_16S_extracted.fasta
+✅ Fichier aligné sauvegardé dans : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_evaluation/aligned/Sj_contigs_more_than_300bp/vamb/vamb_Sj_contigs_more_than_300bp_264_aligned.fasta
+⚠️  Moins de 2 séquences dans vamb_Sj_contigs_more_than_300bp_134_16S_extracted.fasta, alignement MAFFT ignoré.
+🧬 Alignement MAFFT : vamb_Sj_contigs_more_than_300bp_137_16S_extracted.fasta
+✅ Fichier aligné sauvegardé dans : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_evaluation/aligned/Sj_contigs_more_than_300bp/vamb/vamb_Sj_contigs_more_than_300bp_137_aligned.fasta
+⚠️  Moins de 2 séquences dans vamb_Sj_contigs_more_than_300bp_1_16S_extracted.fasta, alignement MAFFT ignoré.
+🧬 Alignement MAFFT : vamb_Sj_contigs_more_than_300bp_48_16S_extracted.fasta
+✅ Fichier aligné sauvegardé dans : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_evaluation/aligned/Sj_contigs_more_than_300bp/vamb/vamb_Sj_contigs_more_than_300bp_48_aligned.fasta
+🧬 Alignement MAFFT : vamb_Sj_contigs_more_than_300bp_122_16S_extracted.fasta
+✅ Fichier aligné sauvegardé dans : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_evaluation/aligned/Sj_contigs_more_than_300bp/vamb/vamb_Sj_contigs_more_than_300bp_122_aligned.fasta
+⚠️  Moins de 2 séquences dans vamb_Sj_contigs_more_than_300bp_82_16S_extracted.fasta, alignement MAFFT ignoré.
+🖼️ [vamb/Sj_contigs_more_than_300bp] Génération des visualisations
+✅ Visualisation sauvegardée : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_evaluation/plots/Sj_contigs_more_than_300bp/vamb/vamb_Sj_contigs_more_than_300bp_178_alignment.png
+✅ Visualisation sauvegardée : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_evaluation/plots/Sj_contigs_more_than_300bp/vamb/vamb_Sj_contigs_more_than_300bp_11_alignment.png
+✅ Visualisation sauvegardée : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_evaluation/plots/Sj_contigs_more_than_300bp/vamb/vamb_Sj_contigs_more_than_300bp_74_alignment.png
+✅ Visualisation sauvegardée : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_evaluation/plots/Sj_contigs_more_than_300bp/vamb/vamb_Sj_contigs_more_than_300bp_62_alignment.png
+✅ Visualisation sauvegardée : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_evaluation/plots/Sj_contigs_more_than_300bp/vamb/vamb_Sj_contigs_more_than_300bp_113_alignment.png
+✅ Visualisation sauvegardée : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_evaluation/plots/Sj_contigs_more_than_300bp/vamb/vamb_Sj_contigs_more_than_300bp_32_alignment.png
+✅ Visualisation sauvegardée : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_evaluation/plots/Sj_contigs_more_than_300bp/vamb/vamb_Sj_contigs_more_than_300bp_170_alignment.png
+✅ Visualisation sauvegardée : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_evaluation/plots/Sj_contigs_more_than_300bp/vamb/vamb_Sj_contigs_more_than_300bp_17_alignment.png
+✅ Visualisation sauvegardée : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_evaluation/plots/Sj_contigs_more_than_300bp/vamb/vamb_Sj_contigs_more_than_300bp_182_alignment.png
+✅ Visualisation sauvegardée : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_evaluation/plots/Sj_contigs_more_than_300bp/vamb/vamb_Sj_contigs_more_than_300bp_5_alignment.png
+✅ Visualisation sauvegardée : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_evaluation/plots/Sj_contigs_more_than_300bp/vamb/vamb_Sj_contigs_more_than_300bp_264_alignment.png
+✅ Visualisation sauvegardée : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_evaluation/plots/Sj_contigs_more_than_300bp/vamb/vamb_Sj_contigs_more_than_300bp_137_alignment.png
+✅ Visualisation sauvegardée : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_evaluation/plots/Sj_contigs_more_than_300bp/vamb/vamb_Sj_contigs_more_than_300bp_48_alignment.png
+✅ Visualisation sauvegardée : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_evaluation/plots/Sj_contigs_more_than_300bp/vamb/vamb_Sj_contigs_more_than_300bp_122_alignment.png
+📊 [vamb/Sj_contigs_more_than_300bp] Calcul des matrices d'identité
+✅ [vamb/Sj_contigs_more_than_300bp] Terminé

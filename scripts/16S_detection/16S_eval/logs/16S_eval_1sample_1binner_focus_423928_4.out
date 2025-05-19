@@ -1,0 +1,10 @@
+🚀 Début du job array 4
+🔍 [vamb/C_contigs_more_than_300bp] Filtrage des bins divergents
+🧬 [vamb/C_contigs_more_than_300bp] Alignement par bin
+🧬 Alignement MAFFT : vamb_C_contigs_more_than_300bp_22822_16S_extracted.fasta
+✅ Fichier aligné sauvegardé dans : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_evaluation/aligned/C_contigs_more_than_300bp/vamb/vamb_C_contigs_more_than_300bp_22822_aligned.fasta
+🖼️ [vamb/C_contigs_more_than_300bp] Génération des visualisations
+✅ Visualisation sauvegardée : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_evaluation/plots/C_contigs_more_than_300bp/vamb/vamb_C_contigs_more_than_300bp_22822_alignment.png
+📊 [vamb/C_contigs_more_than_300bp] Calcul des matrices d'identité
+✅ Matrice d'identité sauvegardée : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_evaluation/identity/C_contigs_more_than_300bp/vamb/vamb_C_contigs_more_than_300bp_22822_identity_matrix.tsv
+✅ [vamb/C_contigs_more_than_300bp] Terminé

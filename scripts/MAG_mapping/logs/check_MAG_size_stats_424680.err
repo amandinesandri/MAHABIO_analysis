@@ -1,0 +1,9 @@
+
+EnvironmentNameNotFound: Could not find conda environment: mahabion_env
+You can list all discoverable environments with `conda info --envs`.
+
+
+  File "/shared/home/asandri/MAHABIO_analysis/scripts/MAG_mapping/2-1-MAG_size_stat.py", line 26
+    "MAGs_<500kb_Count": len(low_size),Distribution
+                                                  ^
+SyntaxError: ':' expected after dictionary key

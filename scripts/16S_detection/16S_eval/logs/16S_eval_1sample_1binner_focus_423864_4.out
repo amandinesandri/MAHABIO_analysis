@@ -1,0 +1,34 @@
+🚀 Début du job array 4
+🔍 [vamb/C_contigs_more_than_300bp] Filtrage des bins divergents
+🧬 [vamb/C_contigs_more_than_300bp] Alignement par bin
+🧬 Alignement MAFFT : vamb_C_contigs_more_than_300bp_48985_16S_extracted.fasta
+✅ Fichier aligné sauvegardé dans : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_evaluation/aligned/C_contigs_more_than_300bp/vamb/vamb_C_contigs_more_than_300bp_48985_aligned.fasta
+🧬 Alignement MAFFT : vamb_C_contigs_more_than_300bp_12287_16S_extracted.fasta
+✅ Fichier aligné sauvegardé dans : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_evaluation/aligned/C_contigs_more_than_300bp/vamb/vamb_C_contigs_more_than_300bp_12287_aligned.fasta
+🧬 Alignement MAFFT : vamb_C_contigs_more_than_300bp_42499_16S_extracted.fasta
+✅ Fichier aligné sauvegardé dans : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_evaluation/aligned/C_contigs_more_than_300bp/vamb/vamb_C_contigs_more_than_300bp_42499_aligned.fasta
+🧬 Alignement MAFFT : vamb_C_contigs_more_than_300bp_21556_16S_extracted.fasta
+✅ Fichier aligné sauvegardé dans : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_evaluation/aligned/C_contigs_more_than_300bp/vamb/vamb_C_contigs_more_than_300bp_21556_aligned.fasta
+🧬 Alignement MAFFT : vamb_C_contigs_more_than_300bp_22822_16S_extracted.fasta
+✅ Fichier aligné sauvegardé dans : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_evaluation/aligned/C_contigs_more_than_300bp/vamb/vamb_C_contigs_more_than_300bp_22822_aligned.fasta
+🧬 Alignement MAFFT : vamb_C_contigs_more_than_300bp_3886_16S_extracted.fasta
+✅ Fichier aligné sauvegardé dans : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_evaluation/aligned/C_contigs_more_than_300bp/vamb/vamb_C_contigs_more_than_300bp_3886_aligned.fasta
+🧬 Alignement MAFFT : vamb_C_contigs_more_than_300bp_28207_16S_extracted.fasta
+✅ Fichier aligné sauvegardé dans : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_evaluation/aligned/C_contigs_more_than_300bp/vamb/vamb_C_contigs_more_than_300bp_28207_aligned.fasta
+🖼️ [vamb/C_contigs_more_than_300bp] Génération des visualisations
+⚠️ Erreur lecture vamb_C_contigs_more_than_300bp_48985_aligned.fasta : No records found in handle
+⚠️ Erreur lecture vamb_C_contigs_more_than_300bp_12287_aligned.fasta : No records found in handle
+⚠️ Erreur lecture vamb_C_contigs_more_than_300bp_42499_aligned.fasta : No records found in handle
+⚠️ Erreur lecture vamb_C_contigs_more_than_300bp_21556_aligned.fasta : No records found in handle
+✅ Visualisation sauvegardée : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_evaluation/plots/C_contigs_more_than_300bp/vamb/vamb_C_contigs_more_than_300bp_22822_alignment.png
+⚠️ Erreur lecture vamb_C_contigs_more_than_300bp_3886_aligned.fasta : No records found in handle
+⚠️ Erreur lecture vamb_C_contigs_more_than_300bp_28207_aligned.fasta : No records found in handle
+📊 [vamb/C_contigs_more_than_300bp] Calcul des matrices d'identité
+⚠️ Pas assez de séquences dans vamb_C_contigs_more_than_300bp_48985_aligned.fasta pour calculer une matrice.
+⚠️ Pas assez de séquences dans vamb_C_contigs_more_than_300bp_12287_aligned.fasta pour calculer une matrice.
+⚠️ Pas assez de séquences dans vamb_C_contigs_more_than_300bp_42499_aligned.fasta pour calculer une matrice.
+⚠️ Pas assez de séquences dans vamb_C_contigs_more_than_300bp_21556_aligned.fasta pour calculer une matrice.
+✅ Matrice d'identité sauvegardée : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_evaluation/identity/C_contigs_more_than_300bp/vamb/vamb_C_contigs_more_than_300bp_22822_identity_matrix.tsv
+⚠️ Pas assez de séquences dans vamb_C_contigs_more_than_300bp_3886_aligned.fasta pour calculer une matrice.
+⚠️ Pas assez de séquences dans vamb_C_contigs_more_than_300bp_28207_aligned.fasta pour calculer une matrice.
+✅ [vamb/C_contigs_more_than_300bp] Terminé

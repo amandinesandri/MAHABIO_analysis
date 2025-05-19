@@ -1,0 +1,13 @@
+⚠️ check binner path : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_extracted/semibin
+⚠️ check sample path : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_extracted/semibin/Fk
+⚠️ check binner path : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_extracted/maxbin
+⚠️ check sample path : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_extracted/maxbin/Fk
+⚠️ check binner path : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_extracted/vamb
+⚠️ check sample path : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_extracted/vamb/Fk
+⚠️ check binner path : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_extracted/16S_hits.tsv
+⚠️ check sample path : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_extracted/16S_hits.tsv/Fk
+⚠️ check binner path : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_extracted/failures
+⚠️ check sample path : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_extracted/failures/Fk
+⚠️ Moins de 2 séquences pour Fk au total : pas d'alignement global.
+> Préparation de l'affiliation taxonomique... (blastn ou GraftM à intégrer ensuite)
+✅ Pipeline 16S global terminé pour Fk

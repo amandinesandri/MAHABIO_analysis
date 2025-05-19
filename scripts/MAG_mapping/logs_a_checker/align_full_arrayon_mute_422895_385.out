@@ -1,0 +1,22 @@
+✅ Job SLURM démarré : Task ID 385
+🧬 Activation de l'environnement Conda
+🔧 Chargement des modules minimap2, bwa, samtools
+📂 Construction de la liste des MAGs
+🔍 MAG sélectionné : 96.fna
+📌 Méthode : vamb | Échantillon : Sj
+📥 Reads short : /shared/home/asandri/MAHABIO/data//Sj_R1.fastq.gz / /shared/home/asandri/MAHABIO/data//Sj_R2.fastq.gz
+📥 Reads long  : /shared/home/asandri/MAHABIO/data//Sj.fastq.gz
+📦 Détection du format du MAG
+/shared/home/asandri/MAHABIO_analysis/results/binning//vamb/Sj_contigs_more_than_300bp/bins/96.fna
+96.fna
+96.fna
+96
+🔄 Mapping des long reads avec minimap2
+
+
+🔄 Indexation BWA
+
+🔄 Mapping des short reads avec BWA MEM
+
+
+✅ Terminé : MAG 96.fna aligné et BAMs créés pour Sj (TaskID=385)

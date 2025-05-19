@@ -7,8 +7,15 @@
 #SBATCH --time=24:00:00
 #SBATCH --array=0-2
 
-source activate vamb_env
+# Activation de l'environnement conda
+source activate vamb3_env
 
+echo "=========================="
+echo "✅ ENV ACTIVÉ : $CONDA_DEFAULT_ENV"
+echo "✅ VAMB VERSION : $(vamb --version)"
+echo "=========================="
+
+# Paramètres
 contig_files=(
   "/shared/home/asandri/MAHABIO/data/C_contigs_more_than_300bp.fasta"
   "/shared/home/asandri/MAHABIO/data/Sj_contigs_more_than_300bp.fasta"
@@ -21,26 +28,22 @@ bam_files=(
   "/shared/home/asandri/MAHABIO_analysis/results/coverage/Fk_contigs_more_than_300bp_sorted.bam"
 )
 
+# Index de tâche SLURM
 i=$SLURM_ARRAY_TASK_ID
 
 CTG="${contig_files[$i]}"
 BAM="${bam_files[$i]}"
 BASENAME=$(basename "$CTG" .fasta)
+
 OUTDIR="/shared/home/asandri/MAHABIO_analysis/results/binning/vamb/${BASENAME}"
 mkdir -p "$OUTDIR"
 
-# Fichiers intermédiaires
-TNF="${OUTDIR}/${BASENAME}.tnf"
-RPKM="${OUTDIR}/${BASENAME}.rpkm"
+echo "=== Traitement de $BASENAME avec VAMB ==="
+vamb bin\
+  --fasta "$CTG" \
+  --bamfiles "$BAM" \
+  --outdir "$OUTDIR" \
+  --minfasta 200000 \
+  --threads 16
 
-echo "=== Génération des fichiers TNF et RPKM ==="
-vamb --fasta "$CTG" --bamfiles "$BAM" --outdir "$OUTDIR" \
-     --tnf "$TNF" --rpkm "$RPKM" --minfasta 200000 --threads 16
-
-# Ou plus probablement :
-# python -m vamb.tnf "$CTG" "$TNF"
-# python -m vamb.bam2rpkm "$CTG" "$BAM" "$RPKM"
-
-# Puis lancement du binning
-echo "=== Lancement de VAMB classique ==="
-vamb "$OUTDIR" "$TNF" "$RPKM" --minfasta 200000
+echo "=== Fin du traitement de $BASENAME ==="

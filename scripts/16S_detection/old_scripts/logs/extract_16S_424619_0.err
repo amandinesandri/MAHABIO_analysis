@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "/shared/home/asandri/MAHABIO_analysis/scripts/16S_detection/old_scripts/extract_16S_sequences.py", line 78, in <module>
+    main()
+  File "/shared/home/asandri/MAHABIO_analysis/scripts/16S_detection/old_scripts/extract_16S_sequences.py", line 31, in main
+    for sample in os.listdir(os.path.join(args.gff_root, binner)):
+NotADirectoryError: [Errno 20] Not a directory: '/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/summary_16S_detection.tsv'

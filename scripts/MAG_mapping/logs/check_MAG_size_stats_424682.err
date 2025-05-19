@@ -1,0 +1,16 @@
+Traceback (most recent call last):
+  File "/shared/home/asandri/MAHABIO_analysis/scripts/MAG_mapping/2-1-MAG_size_stat.py", line 43, in <module>
+    sns.histplot(data=df["Size_bp"], x="Size_Mbp", hue="Method", element="step", bins=50, stat="count", multiple="stack", palette="Set2")
+  File "/shared/home/asandri/miniforge3/envs/mahabio_env/lib/python3.10/site-packages/seaborn/distributions.py", line 1379, in histplot
+    p = _DistributionPlotter(
+  File "/shared/home/asandri/miniforge3/envs/mahabio_env/lib/python3.10/site-packages/seaborn/distributions.py", line 110, in __init__
+    super().__init__(data=data, variables=variables)
+  File "/shared/home/asandri/miniforge3/envs/mahabio_env/lib/python3.10/site-packages/seaborn/_base.py", line 634, in __init__
+    self.assign_variables(data, variables)
+  File "/shared/home/asandri/miniforge3/envs/mahabio_env/lib/python3.10/site-packages/seaborn/_base.py", line 679, in assign_variables
+    plot_data = PlotData(data, variables)
+  File "/shared/home/asandri/miniforge3/envs/mahabio_env/lib/python3.10/site-packages/seaborn/_core/data.py", line 57, in __init__
+    data = handle_data_source(data)
+  File "/shared/home/asandri/miniforge3/envs/mahabio_env/lib/python3.10/site-packages/seaborn/_core/data.py", line 278, in handle_data_source
+    raise TypeError(err)
+TypeError: Data source must be a DataFrame or Mapping, not <class 'pandas.core.series.Series'>.

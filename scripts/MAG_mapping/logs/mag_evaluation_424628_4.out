@@ -1,0 +1,18 @@
+=== Lancement CompareM Amerged_MAG_infoAI pour vamb/C_contigs_more_than_300bp ===
+[2025-05-02 19:27:41] INFO: CompareM v0.1.2
+[2025-05-02 19:27:41] INFO: comparem aai_wf /shared/home/asandri/MAHABIO_analysis/results/binning/dRep/vamb/C_contigs_more_than_300bp/dereplicated_genomes /shared/home/asandri/MAHABIO_analysis/results/binning/CompareM/vamb/C_contigs_more_than_300bp --cpus 16
+[2025-05-02 19:27:41] INFO: Identifying genes within genomes: 
+  Finished processing 0 of 5 (0.00%) genomes.  Finished processing 1 of 5 (20.00%) genomes.  Finished processing 2 of 5 (40.00%) genomes.  Finished processing 3 of 5 (60.00%) genomes.  Finished processing 4 of 5 (80.00%) genomes.  Finished processing 5 of 5 (100.00%) genomes.
+[2025-05-02 19:28:31] INFO: Identified genes written to: /shared/home/asandri/MAHABIO_analysis/results/binning/CompareM/vamb/C_contigs_more_than_300bp/genes
+[2025-05-02 19:28:31] INFO: Appending genome identifiers to query genes.
+[2025-05-02 19:28:32] INFO: Creating DIAMOND database (be patient!).
+[2025-05-02 19:28:32] INFO: Performing self similarity sequence between genomes (be patient!).
+[2025-05-02 19:28:33] INFO: Sorting table with hits (be patient!).
+[2025-05-02 19:28:33] INFO: Sequence similarity results written to: /shared/home/asandri/MAHABIO_analysis/results/binning/CompareM/vamb/C_contigs_more_than_300bp/similarity
+[2025-05-02 19:28:33] INFO: Calculating length of genes.
+[2025-05-02 19:28:33] INFO: Indexing sorted hit table.
+[2025-05-02 19:28:33] INFO: Calculating AAI between all 10 pairs of genomes:
+  Finished processing 0 of 10 (0.00%) pairs.  Finished processing 0 of 10 (0.00%) pairs.  Finished processing 1 of 10 (10.00%) pairs.  Finished processing 5 of 10 (50.00%) pairs.  Finished processing 7 of 10 (70.00%) pairs.  Finished processing 10 of 10 (100.00%) pairs.
+[2025-05-02 19:28:33] INFO: Summarizing AAI results.
+[2025-05-02 19:28:33] INFO: AAI between genomes written to: /shared/home/asandri/MAHABIO_analysis/results/binning/CompareM/vamb/C_contigs_more_than_300bp/aai/aai_summary.tsv
+=== FIN TACHE vamb/C_contigs_more_than_300bp ===

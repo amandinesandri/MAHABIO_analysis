@@ -1,0 +1,7 @@
+semibin/C_contigs_more_than_300bp
+semibin/Fk_contigs_more_than_300bp
+semibin/Sj_contigs_more_than_300bp
+maxbin/C_contigs_more_than_300bp
+vamb/C_contigs_more_than_300bp
+vamb/Fk_contigs_more_than_300bp
+vamb/Sj_contigs_more_than_300bp

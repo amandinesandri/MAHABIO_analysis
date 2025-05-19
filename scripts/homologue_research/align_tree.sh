@@ -1,27 +1,34 @@
 #!/bin/bash
-#SBATCH --job-name=tree
-#SBATCH --output=logs/tree_%j.out
-#SBATCH --error=logs/tree_%j.err
+#SBATCH --job-name=align_tree_all_hits
+#SBATCH --output=logs/align_tree_all_hits_%A_%a.out
+#SBATCH --error=logs/align_tree_all_hits_%A_%a.err
 #SBATCH --time=01:00:00
 #SBATCH --mem=8G
+#SBATCH --cpus-per-task=4
+#SBATCH --array=0-2    # <-- à adapter au nombre d'échantillons
 
 source activate mahabio_env
 
-mkdir ../../results/hmm/tree
+# === Variables générales
+BASE="/shared/home/asandri/MAHABIO_analysis"
+EXTRACTED_DIR="$BASE/results/hmm/extracted_hits"
+ALIGN_DIR="$BASE/results/hmm/alignment_phylo"
+mkdir -p "$ALIGN_DIR"
 
+# === Lister les fichiers
+FILES=($(ls "$EXTRACTED_DIR"/*_all_hits.faa))
 
+# === Choisir le fichier correspondant à l'index SLURM_ARRAY_TASK_ID
+faa="${FILES[$SLURM_ARRAY_TASK_ID]}"
+sample=$(basename "$faa" _all_hits.faa)
 
-#cat ../../results/hmm/hits/*_hits.faa /shared/home/asandri/MAHABIO/data/cmuaA_seq_prot.fasta > ../../results/hmm/tree/all_CmuA.fasta
-#seqkit replace -p '\*' -r '' ../../results/hmm/tree/all_CmuA.fasta > ../../results/hmm/tree/all_CmuA_cleaned.faa
-#mafft --auto ../../results/hmm/tree/all_CmuA_cleaned.faa > ../../results/hmm/tree/aligned_all_CmuA.fasta
-#FastTree -lg ../../results/hmm/tree/aligned_all_CmuA.fasta > ../../results/hmm/tree/CmuA_tree.nwk
+aligned="$ALIGN_DIR/${sample}_aligned.faa"
+tree="$ALIGN_DIR/${sample}_tree.nwk"
 
-#mafft --auto /shared/home/asandri/MAHABIO/data/cmuaA_seq_prot.fasta > ../../results/hmm/tree/aligned_refseq_for_TEST_CmuA.fasta
-#FastTree -lg ../../results/hmm/tree/aligned_refseq_for_TEST_CmuA.fasta > ../../results/hmm/tree/refseq_TEST_CmuA_tree.nwk
+echo "📈 Alignement avec MAFFT pour $sample..."
+mafft --thread 4 --auto "$faa" > "$aligned"
 
+echo "🌳 Construction de l'arbre phylogénétique avec FastTree pour $sample..."
+FastTree -lg "$aligned" > "$tree"
 
-
-cat ../../results/hmm/hmm_matched/*_matched.faa  /shared/home/asandri/MAHABIO/data/cmuaA_seq_prot.fasta > ../../results/hmm/tree/all_CmuA.fasta
-#seqkit replace -p '\*' -r '' ../../results/hmm/tree/all_CmuA.fasta > ../../results/hmm/tree/all_CmuA_cleaned.faa
-mafft --auto ../../results/hmm/tree/all_CmuA.fasta > ../../results/hmm/tree/aligned_all_CmuA.fasta
-FastTree -lg ../../results/hmm/tree/aligned_all_CmuA.fasta > ../../results/hmm/tree/CmuA_tree.nwk
+echo "✅ $sample : alignement et arbre phylo terminés."

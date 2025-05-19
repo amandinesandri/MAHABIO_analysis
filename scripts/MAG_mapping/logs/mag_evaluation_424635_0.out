@@ -1,0 +1,18 @@
+=== Lancement CompareM Amerged_MAG_infoAI pour maxbin/C_contigs_more_than_300bp ===
+[2025-05-02 19:56:01] INFO: CompareM v0.1.2
+[2025-05-02 19:56:01] INFO: comparem aai_wf /shared/home/asandri/MAHABIO_analysis/results/binning/dRep/maxbin/C_contigs_more_than_300bp/dereplicated_genomes /shared/home/asandri/MAHABIO_analysis/results/binning/CompareM/maxbin/C_contigs_more_than_300bp --cpus 16 --file_ext .fasta
+[2025-05-02 19:56:01] INFO: Identifying genes within genomes: 
+  Finished processing 0 of 3 (0.00%) genomes.  Finished processing 1 of 3 (33.33%) genomes.  Finished processing 2 of 3 (66.67%) genomes.  Finished processing 3 of 3 (100.00%) genomes.
+[2025-05-02 19:56:24] INFO: Identified genes written to: /shared/home/asandri/MAHABIO_analysis/results/binning/CompareM/maxbin/C_contigs_more_than_300bp/genes
+[2025-05-02 19:56:24] INFO: Appending genome identifiers to query genes.
+[2025-05-02 19:56:24] INFO: Creating DIAMOND database (be patient!).
+[2025-05-02 19:56:24] INFO: Performing self similarity sequence between genomes (be patient!).
+[2025-05-02 19:56:24] INFO: Sorting table with hits (be patient!).
+[2025-05-02 19:56:24] INFO: Sequence similarity results written to: /shared/home/asandri/MAHABIO_analysis/results/binning/CompareM/maxbin/C_contigs_more_than_300bp/similarity
+[2025-05-02 19:56:24] INFO: Calculating length of genes.
+[2025-05-02 19:56:24] INFO: Indexing sorted hit table.
+[2025-05-02 19:56:24] INFO: Calculating AAI between all 3 pairs of genomes:
+  Finished processing 0 of 3 (0.00%) pairs.  Finished processing 0 of 3 (0.00%) pairs.  Finished processing 2 of 3 (66.67%) pairs.  Finished processing 3 of 3 (100.00%) pairs.
+[2025-05-02 19:56:24] INFO: Summarizing AAI results.
+[2025-05-02 19:56:24] INFO: AAI between genomes written to: /shared/home/asandri/MAHABIO_analysis/results/binning/CompareM/maxbin/C_contigs_more_than_300bp/aai/aai_summary.tsv
+=== FIN TACHE maxbin/C_contigs_more_than_300bp ===

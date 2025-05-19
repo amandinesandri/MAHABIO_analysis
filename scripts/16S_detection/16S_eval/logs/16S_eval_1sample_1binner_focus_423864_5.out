@@ -1,0 +1,138 @@
+🚀 Début du job array 5
+🔍 [vamb/Fk_contigs_more_than_300bp] Filtrage des bins divergents
+🧬 [vamb/Fk_contigs_more_than_300bp] Alignement par bin
+🧬 Alignement MAFFT : vamb_Fk_contigs_more_than_300bp_2_16S_extracted.fasta
+✅ Fichier aligné sauvegardé dans : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_evaluation/aligned/Fk_contigs_more_than_300bp/vamb/vamb_Fk_contigs_more_than_300bp_2_aligned.fasta
+🧬 Alignement MAFFT : vamb_Fk_contigs_more_than_300bp_9_16S_extracted.fasta
+✅ Fichier aligné sauvegardé dans : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_evaluation/aligned/Fk_contigs_more_than_300bp/vamb/vamb_Fk_contigs_more_than_300bp_9_aligned.fasta
+🧬 Alignement MAFFT : vamb_Fk_contigs_more_than_300bp_21_16S_extracted.fasta
+✅ Fichier aligné sauvegardé dans : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_evaluation/aligned/Fk_contigs_more_than_300bp/vamb/vamb_Fk_contigs_more_than_300bp_21_aligned.fasta
+🧬 Alignement MAFFT : vamb_Fk_contigs_more_than_300bp_3_16S_extracted.fasta
+✅ Fichier aligné sauvegardé dans : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_evaluation/aligned/Fk_contigs_more_than_300bp/vamb/vamb_Fk_contigs_more_than_300bp_3_aligned.fasta
+🧬 Alignement MAFFT : vamb_Fk_contigs_more_than_300bp_11_16S_extracted.fasta
+✅ Fichier aligné sauvegardé dans : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_evaluation/aligned/Fk_contigs_more_than_300bp/vamb/vamb_Fk_contigs_more_than_300bp_11_aligned.fasta
+🧬 Alignement MAFFT : vamb_Fk_contigs_more_than_300bp_28_16S_extracted.fasta
+✅ Fichier aligné sauvegardé dans : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_evaluation/aligned/Fk_contigs_more_than_300bp/vamb/vamb_Fk_contigs_more_than_300bp_28_aligned.fasta
+🧬 Alignement MAFFT : vamb_Fk_contigs_more_than_300bp_14_16S_extracted.fasta
+✅ Fichier aligné sauvegardé dans : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_evaluation/aligned/Fk_contigs_more_than_300bp/vamb/vamb_Fk_contigs_more_than_300bp_14_aligned.fasta
+🧬 Alignement MAFFT : vamb_Fk_contigs_more_than_300bp_31_16S_extracted.fasta
+✅ Fichier aligné sauvegardé dans : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_evaluation/aligned/Fk_contigs_more_than_300bp/vamb/vamb_Fk_contigs_more_than_300bp_31_aligned.fasta
+🧬 Alignement MAFFT : vamb_Fk_contigs_more_than_300bp_20_16S_extracted.fasta
+✅ Fichier aligné sauvegardé dans : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_evaluation/aligned/Fk_contigs_more_than_300bp/vamb/vamb_Fk_contigs_more_than_300bp_20_aligned.fasta
+🧬 Alignement MAFFT : vamb_Fk_contigs_more_than_300bp_29_16S_extracted.fasta
+✅ Fichier aligné sauvegardé dans : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_evaluation/aligned/Fk_contigs_more_than_300bp/vamb/vamb_Fk_contigs_more_than_300bp_29_aligned.fasta
+🧬 Alignement MAFFT : vamb_Fk_contigs_more_than_300bp_8_16S_extracted.fasta
+✅ Fichier aligné sauvegardé dans : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_evaluation/aligned/Fk_contigs_more_than_300bp/vamb/vamb_Fk_contigs_more_than_300bp_8_aligned.fasta
+🧬 Alignement MAFFT : vamb_Fk_contigs_more_than_300bp_27_16S_extracted.fasta
+✅ Fichier aligné sauvegardé dans : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_evaluation/aligned/Fk_contigs_more_than_300bp/vamb/vamb_Fk_contigs_more_than_300bp_27_aligned.fasta
+🧬 Alignement MAFFT : vamb_Fk_contigs_more_than_300bp_16_16S_extracted.fasta
+✅ Fichier aligné sauvegardé dans : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_evaluation/aligned/Fk_contigs_more_than_300bp/vamb/vamb_Fk_contigs_more_than_300bp_16_aligned.fasta
+🧬 Alignement MAFFT : vamb_Fk_contigs_more_than_300bp_32_16S_extracted.fasta
+✅ Fichier aligné sauvegardé dans : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_evaluation/aligned/Fk_contigs_more_than_300bp/vamb/vamb_Fk_contigs_more_than_300bp_32_aligned.fasta
+🧬 Alignement MAFFT : vamb_Fk_contigs_more_than_300bp_6_16S_extracted.fasta
+✅ Fichier aligné sauvegardé dans : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_evaluation/aligned/Fk_contigs_more_than_300bp/vamb/vamb_Fk_contigs_more_than_300bp_6_aligned.fasta
+🧬 Alignement MAFFT : vamb_Fk_contigs_more_than_300bp_15_16S_extracted.fasta
+✅ Fichier aligné sauvegardé dans : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_evaluation/aligned/Fk_contigs_more_than_300bp/vamb/vamb_Fk_contigs_more_than_300bp_15_aligned.fasta
+🧬 Alignement MAFFT : vamb_Fk_contigs_more_than_300bp_17_16S_extracted.fasta
+✅ Fichier aligné sauvegardé dans : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_evaluation/aligned/Fk_contigs_more_than_300bp/vamb/vamb_Fk_contigs_more_than_300bp_17_aligned.fasta
+🧬 Alignement MAFFT : vamb_Fk_contigs_more_than_300bp_7_16S_extracted.fasta
+✅ Fichier aligné sauvegardé dans : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_evaluation/aligned/Fk_contigs_more_than_300bp/vamb/vamb_Fk_contigs_more_than_300bp_7_aligned.fasta
+🧬 Alignement MAFFT : vamb_Fk_contigs_more_than_300bp_33_16S_extracted.fasta
+✅ Fichier aligné sauvegardé dans : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_evaluation/aligned/Fk_contigs_more_than_300bp/vamb/vamb_Fk_contigs_more_than_300bp_33_aligned.fasta
+🧬 Alignement MAFFT : vamb_Fk_contigs_more_than_300bp_30_16S_extracted.fasta
+✅ Fichier aligné sauvegardé dans : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_evaluation/aligned/Fk_contigs_more_than_300bp/vamb/vamb_Fk_contigs_more_than_300bp_30_aligned.fasta
+🧬 Alignement MAFFT : vamb_Fk_contigs_more_than_300bp_26_16S_extracted.fasta
+✅ Fichier aligné sauvegardé dans : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_evaluation/aligned/Fk_contigs_more_than_300bp/vamb/vamb_Fk_contigs_more_than_300bp_26_aligned.fasta
+🧬 Alignement MAFFT : vamb_Fk_contigs_more_than_300bp_4_16S_extracted.fasta
+✅ Fichier aligné sauvegardé dans : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_evaluation/aligned/Fk_contigs_more_than_300bp/vamb/vamb_Fk_contigs_more_than_300bp_4_aligned.fasta
+🧬 Alignement MAFFT : vamb_Fk_contigs_more_than_300bp_5_16S_extracted.fasta
+✅ Fichier aligné sauvegardé dans : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_evaluation/aligned/Fk_contigs_more_than_300bp/vamb/vamb_Fk_contigs_more_than_300bp_5_aligned.fasta
+🧬 Alignement MAFFT : vamb_Fk_contigs_more_than_300bp_22_16S_extracted.fasta
+✅ Fichier aligné sauvegardé dans : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_evaluation/aligned/Fk_contigs_more_than_300bp/vamb/vamb_Fk_contigs_more_than_300bp_22_aligned.fasta
+🧬 Alignement MAFFT : vamb_Fk_contigs_more_than_300bp_24_16S_extracted.fasta
+✅ Fichier aligné sauvegardé dans : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_evaluation/aligned/Fk_contigs_more_than_300bp/vamb/vamb_Fk_contigs_more_than_300bp_24_aligned.fasta
+🧬 Alignement MAFFT : vamb_Fk_contigs_more_than_300bp_19_16S_extracted.fasta
+✅ Fichier aligné sauvegardé dans : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_evaluation/aligned/Fk_contigs_more_than_300bp/vamb/vamb_Fk_contigs_more_than_300bp_19_aligned.fasta
+🧬 Alignement MAFFT : vamb_Fk_contigs_more_than_300bp_10_16S_extracted.fasta
+✅ Fichier aligné sauvegardé dans : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_evaluation/aligned/Fk_contigs_more_than_300bp/vamb/vamb_Fk_contigs_more_than_300bp_10_aligned.fasta
+🧬 Alignement MAFFT : vamb_Fk_contigs_more_than_300bp_23_16S_extracted.fasta
+✅ Fichier aligné sauvegardé dans : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_evaluation/aligned/Fk_contigs_more_than_300bp/vamb/vamb_Fk_contigs_more_than_300bp_23_aligned.fasta
+🧬 Alignement MAFFT : vamb_Fk_contigs_more_than_300bp_12_16S_extracted.fasta
+✅ Fichier aligné sauvegardé dans : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_evaluation/aligned/Fk_contigs_more_than_300bp/vamb/vamb_Fk_contigs_more_than_300bp_12_aligned.fasta
+🧬 Alignement MAFFT : vamb_Fk_contigs_more_than_300bp_13_16S_extracted.fasta
+✅ Fichier aligné sauvegardé dans : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_evaluation/aligned/Fk_contigs_more_than_300bp/vamb/vamb_Fk_contigs_more_than_300bp_13_aligned.fasta
+🧬 Alignement MAFFT : vamb_Fk_contigs_more_than_300bp_1_16S_extracted.fasta
+✅ Fichier aligné sauvegardé dans : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_evaluation/aligned/Fk_contigs_more_than_300bp/vamb/vamb_Fk_contigs_more_than_300bp_1_aligned.fasta
+🧬 Alignement MAFFT : vamb_Fk_contigs_more_than_300bp_25_16S_extracted.fasta
+✅ Fichier aligné sauvegardé dans : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_evaluation/aligned/Fk_contigs_more_than_300bp/vamb/vamb_Fk_contigs_more_than_300bp_25_aligned.fasta
+🧬 Alignement MAFFT : vamb_Fk_contigs_more_than_300bp_18_16S_extracted.fasta
+✅ Fichier aligné sauvegardé dans : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_evaluation/aligned/Fk_contigs_more_than_300bp/vamb/vamb_Fk_contigs_more_than_300bp_18_aligned.fasta
+🖼️ [vamb/Fk_contigs_more_than_300bp] Génération des visualisations
+✅ Visualisation sauvegardée : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_evaluation/plots/Fk_contigs_more_than_300bp/vamb/vamb_Fk_contigs_more_than_300bp_2_alignment.png
+⚠️ Erreur lecture vamb_Fk_contigs_more_than_300bp_9_aligned.fasta : No records found in handle
+⚠️ Erreur lecture vamb_Fk_contigs_more_than_300bp_21_aligned.fasta : No records found in handle
+⚠️ Erreur lecture vamb_Fk_contigs_more_than_300bp_3_aligned.fasta : No records found in handle
+⚠️ Erreur lecture vamb_Fk_contigs_more_than_300bp_11_aligned.fasta : No records found in handle
+⚠️ Erreur lecture vamb_Fk_contigs_more_than_300bp_28_aligned.fasta : No records found in handle
+⚠️ Erreur lecture vamb_Fk_contigs_more_than_300bp_14_aligned.fasta : No records found in handle
+⚠️ Erreur lecture vamb_Fk_contigs_more_than_300bp_31_aligned.fasta : No records found in handle
+⚠️ Erreur lecture vamb_Fk_contigs_more_than_300bp_20_aligned.fasta : No records found in handle
+✅ Visualisation sauvegardée : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_evaluation/plots/Fk_contigs_more_than_300bp/vamb/vamb_Fk_contigs_more_than_300bp_29_alignment.png
+⚠️ Erreur lecture vamb_Fk_contigs_more_than_300bp_8_aligned.fasta : No records found in handle
+⚠️ Erreur lecture vamb_Fk_contigs_more_than_300bp_27_aligned.fasta : No records found in handle
+⚠️ Erreur lecture vamb_Fk_contigs_more_than_300bp_16_aligned.fasta : No records found in handle
+⚠️ Erreur lecture vamb_Fk_contigs_more_than_300bp_32_aligned.fasta : No records found in handle
+⚠️ Erreur lecture vamb_Fk_contigs_more_than_300bp_6_aligned.fasta : No records found in handle
+⚠️ Erreur lecture vamb_Fk_contigs_more_than_300bp_15_aligned.fasta : No records found in handle
+⚠️ Erreur lecture vamb_Fk_contigs_more_than_300bp_17_aligned.fasta : No records found in handle
+⚠️ Erreur lecture vamb_Fk_contigs_more_than_300bp_7_aligned.fasta : No records found in handle
+⚠️ Erreur lecture vamb_Fk_contigs_more_than_300bp_33_aligned.fasta : No records found in handle
+⚠️ Erreur lecture vamb_Fk_contigs_more_than_300bp_30_aligned.fasta : No records found in handle
+✅ Visualisation sauvegardée : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_evaluation/plots/Fk_contigs_more_than_300bp/vamb/vamb_Fk_contigs_more_than_300bp_26_alignment.png
+✅ Visualisation sauvegardée : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_evaluation/plots/Fk_contigs_more_than_300bp/vamb/vamb_Fk_contigs_more_than_300bp_4_alignment.png
+✅ Visualisation sauvegardée : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_evaluation/plots/Fk_contigs_more_than_300bp/vamb/vamb_Fk_contigs_more_than_300bp_5_alignment.png
+✅ Visualisation sauvegardée : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_evaluation/plots/Fk_contigs_more_than_300bp/vamb/vamb_Fk_contigs_more_than_300bp_22_alignment.png
+⚠️ Erreur lecture vamb_Fk_contigs_more_than_300bp_24_aligned.fasta : No records found in handle
+⚠️ Erreur lecture vamb_Fk_contigs_more_than_300bp_19_aligned.fasta : No records found in handle
+⚠️ Erreur lecture vamb_Fk_contigs_more_than_300bp_10_aligned.fasta : No records found in handle
+✅ Visualisation sauvegardée : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_evaluation/plots/Fk_contigs_more_than_300bp/vamb/vamb_Fk_contigs_more_than_300bp_23_alignment.png
+⚠️ Erreur lecture vamb_Fk_contigs_more_than_300bp_12_aligned.fasta : No records found in handle
+⚠️ Erreur lecture vamb_Fk_contigs_more_than_300bp_13_aligned.fasta : No records found in handle
+✅ Visualisation sauvegardée : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_evaluation/plots/Fk_contigs_more_than_300bp/vamb/vamb_Fk_contigs_more_than_300bp_1_alignment.png
+✅ Visualisation sauvegardée : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_evaluation/plots/Fk_contigs_more_than_300bp/vamb/vamb_Fk_contigs_more_than_300bp_25_alignment.png
+⚠️ Erreur lecture vamb_Fk_contigs_more_than_300bp_18_aligned.fasta : No records found in handle
+📊 [vamb/Fk_contigs_more_than_300bp] Calcul des matrices d'identité
+✅ Matrice d'identité sauvegardée : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_evaluation/identity/Fk_contigs_more_than_300bp/vamb/vamb_Fk_contigs_more_than_300bp_2_identity_matrix.tsv
+⚠️ Pas assez de séquences dans vamb_Fk_contigs_more_than_300bp_9_aligned.fasta pour calculer une matrice.
+⚠️ Pas assez de séquences dans vamb_Fk_contigs_more_than_300bp_21_aligned.fasta pour calculer une matrice.
+⚠️ Pas assez de séquences dans vamb_Fk_contigs_more_than_300bp_3_aligned.fasta pour calculer une matrice.
+⚠️ Pas assez de séquences dans vamb_Fk_contigs_more_than_300bp_11_aligned.fasta pour calculer une matrice.
+⚠️ Pas assez de séquences dans vamb_Fk_contigs_more_than_300bp_28_aligned.fasta pour calculer une matrice.
+⚠️ Pas assez de séquences dans vamb_Fk_contigs_more_than_300bp_14_aligned.fasta pour calculer une matrice.
+⚠️ Pas assez de séquences dans vamb_Fk_contigs_more_than_300bp_31_aligned.fasta pour calculer une matrice.
+⚠️ Pas assez de séquences dans vamb_Fk_contigs_more_than_300bp_20_aligned.fasta pour calculer une matrice.
+⚠️ Pas assez de séquences dans vamb_Fk_contigs_more_than_300bp_29_aligned.fasta pour calculer une matrice.
+⚠️ Pas assez de séquences dans vamb_Fk_contigs_more_than_300bp_8_aligned.fasta pour calculer une matrice.
+⚠️ Pas assez de séquences dans vamb_Fk_contigs_more_than_300bp_27_aligned.fasta pour calculer une matrice.
+⚠️ Pas assez de séquences dans vamb_Fk_contigs_more_than_300bp_16_aligned.fasta pour calculer une matrice.
+⚠️ Pas assez de séquences dans vamb_Fk_contigs_more_than_300bp_32_aligned.fasta pour calculer une matrice.
+⚠️ Pas assez de séquences dans vamb_Fk_contigs_more_than_300bp_6_aligned.fasta pour calculer une matrice.
+⚠️ Pas assez de séquences dans vamb_Fk_contigs_more_than_300bp_15_aligned.fasta pour calculer une matrice.
+⚠️ Pas assez de séquences dans vamb_Fk_contigs_more_than_300bp_17_aligned.fasta pour calculer une matrice.
+⚠️ Pas assez de séquences dans vamb_Fk_contigs_more_than_300bp_7_aligned.fasta pour calculer une matrice.
+⚠️ Pas assez de séquences dans vamb_Fk_contigs_more_than_300bp_33_aligned.fasta pour calculer une matrice.
+⚠️ Pas assez de séquences dans vamb_Fk_contigs_more_than_300bp_30_aligned.fasta pour calculer une matrice.
+⚠️ Pas assez de séquences dans vamb_Fk_contigs_more_than_300bp_26_aligned.fasta pour calculer une matrice.
+⚠️ Pas assez de séquences dans vamb_Fk_contigs_more_than_300bp_4_aligned.fasta pour calculer une matrice.
+⚠️ Pas assez de séquences dans vamb_Fk_contigs_more_than_300bp_5_aligned.fasta pour calculer une matrice.
+⚠️ Pas assez de séquences dans vamb_Fk_contigs_more_than_300bp_22_aligned.fasta pour calculer une matrice.
+⚠️ Pas assez de séquences dans vamb_Fk_contigs_more_than_300bp_24_aligned.fasta pour calculer une matrice.
+⚠️ Pas assez de séquences dans vamb_Fk_contigs_more_than_300bp_19_aligned.fasta pour calculer une matrice.
+⚠️ Pas assez de séquences dans vamb_Fk_contigs_more_than_300bp_10_aligned.fasta pour calculer une matrice.
+✅ Matrice d'identité sauvegardée : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_evaluation/identity/Fk_contigs_more_than_300bp/vamb/vamb_Fk_contigs_more_than_300bp_23_identity_matrix.tsv
+⚠️ Pas assez de séquences dans vamb_Fk_contigs_more_than_300bp_12_aligned.fasta pour calculer une matrice.
+⚠️ Pas assez de séquences dans vamb_Fk_contigs_more_than_300bp_13_aligned.fasta pour calculer une matrice.
+⚠️ Pas assez de séquences dans vamb_Fk_contigs_more_than_300bp_1_aligned.fasta pour calculer une matrice.
+✅ Matrice d'identité sauvegardée : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_evaluation/identity/Fk_contigs_more_than_300bp/vamb/vamb_Fk_contigs_more_than_300bp_25_identity_matrix.tsv
+⚠️ Pas assez de séquences dans vamb_Fk_contigs_more_than_300bp_18_aligned.fasta pour calculer une matrice.
+✅ [vamb/Fk_contigs_more_than_300bp] Terminé

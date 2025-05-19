@@ -1,0 +1,11 @@
+/var/spool/slurmd/job418099/slurm_script: line 76: minimap2: command not found
+[W::hts_set_opt] Cannot change block size for this format
+samtools sort: failed to read header from "-"
+[E::hts_open_format] Failed to open file "/shared/home/asandri/MAHABIO_analysis/bam_files_full//semibin/C/long/temp_SemiBin_19_long.bam" : No such file or directory
+samtools index: failed to open "/shared/home/asandri/MAHABIO_analysis/bam_files_full//semibin/C/long/temp_SemiBin_19_long.bam": No such file or directory
+/var/spool/slurmd/job418099/slurm_script: line 80: bwa: command not found
+/var/spool/slurmd/job418099/slurm_script: line 81: bwa: command not found
+[W::hts_set_opt] Cannot change block size for this format
+samtools sort: failed to read header from "-"
+[E::hts_open_format] Failed to open file "/shared/home/asandri/MAHABIO_analysis/bam_files_full//semibin/C/short/temp_SemiBin_19_short.bam" : No such file or directory
+samtools index: failed to open "/shared/home/asandri/MAHABIO_analysis/bam_files_full//semibin/C/short/temp_SemiBin_19_short.bam": No such file or directory

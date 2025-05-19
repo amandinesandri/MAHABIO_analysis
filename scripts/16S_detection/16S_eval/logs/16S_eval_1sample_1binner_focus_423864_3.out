@@ -1,0 +1,70 @@
+🚀 Début du job array 3
+🔍 [maxbin/C_contigs_more_than_300bp] Filtrage des bins divergents
+🧬 [maxbin/C_contigs_more_than_300bp] Alignement par bin
+🧬 Alignement MAFFT : maxbin_C_contigs_more_than_300bp_001_16S_extracted.fasta
+✅ Fichier aligné sauvegardé dans : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_evaluation/aligned/C_contigs_more_than_300bp/maxbin/maxbin_C_contigs_more_than_300bp_001_aligned.fasta
+🧬 Alignement MAFFT : maxbin_C_contigs_more_than_300bp_003_16S_extracted.fasta
+✅ Fichier aligné sauvegardé dans : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_evaluation/aligned/C_contigs_more_than_300bp/maxbin/maxbin_C_contigs_more_than_300bp_003_aligned.fasta
+🧬 Alignement MAFFT : maxbin_C_contigs_more_than_300bp_009_16S_extracted.fasta
+✅ Fichier aligné sauvegardé dans : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_evaluation/aligned/C_contigs_more_than_300bp/maxbin/maxbin_C_contigs_more_than_300bp_009_aligned.fasta
+🧬 Alignement MAFFT : maxbin_C_contigs_more_than_300bp_010_16S_extracted.fasta
+✅ Fichier aligné sauvegardé dans : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_evaluation/aligned/C_contigs_more_than_300bp/maxbin/maxbin_C_contigs_more_than_300bp_010_aligned.fasta
+🧬 Alignement MAFFT : maxbin_C_contigs_more_than_300bp_011_16S_extracted.fasta
+✅ Fichier aligné sauvegardé dans : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_evaluation/aligned/C_contigs_more_than_300bp/maxbin/maxbin_C_contigs_more_than_300bp_011_aligned.fasta
+🧬 Alignement MAFFT : maxbin_C_contigs_more_than_300bp_013_16S_extracted.fasta
+✅ Fichier aligné sauvegardé dans : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_evaluation/aligned/C_contigs_more_than_300bp/maxbin/maxbin_C_contigs_more_than_300bp_013_aligned.fasta
+🧬 Alignement MAFFT : maxbin_C_contigs_more_than_300bp_015_16S_extracted.fasta
+✅ Fichier aligné sauvegardé dans : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_evaluation/aligned/C_contigs_more_than_300bp/maxbin/maxbin_C_contigs_more_than_300bp_015_aligned.fasta
+🧬 Alignement MAFFT : maxbin_C_contigs_more_than_300bp_016_16S_extracted.fasta
+✅ Fichier aligné sauvegardé dans : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_evaluation/aligned/C_contigs_more_than_300bp/maxbin/maxbin_C_contigs_more_than_300bp_016_aligned.fasta
+🧬 Alignement MAFFT : maxbin_C_contigs_more_than_300bp_002_16S_extracted.fasta
+✅ Fichier aligné sauvegardé dans : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_evaluation/aligned/C_contigs_more_than_300bp/maxbin/maxbin_C_contigs_more_than_300bp_002_aligned.fasta
+🧬 Alignement MAFFT : maxbin_C_contigs_more_than_300bp_004_16S_extracted.fasta
+✅ Fichier aligné sauvegardé dans : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_evaluation/aligned/C_contigs_more_than_300bp/maxbin/maxbin_C_contigs_more_than_300bp_004_aligned.fasta
+🧬 Alignement MAFFT : maxbin_C_contigs_more_than_300bp_005_16S_extracted.fasta
+✅ Fichier aligné sauvegardé dans : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_evaluation/aligned/C_contigs_more_than_300bp/maxbin/maxbin_C_contigs_more_than_300bp_005_aligned.fasta
+🧬 Alignement MAFFT : maxbin_C_contigs_more_than_300bp_006_16S_extracted.fasta
+✅ Fichier aligné sauvegardé dans : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_evaluation/aligned/C_contigs_more_than_300bp/maxbin/maxbin_C_contigs_more_than_300bp_006_aligned.fasta
+🧬 Alignement MAFFT : maxbin_C_contigs_more_than_300bp_007_16S_extracted.fasta
+✅ Fichier aligné sauvegardé dans : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_evaluation/aligned/C_contigs_more_than_300bp/maxbin/maxbin_C_contigs_more_than_300bp_007_aligned.fasta
+🧬 Alignement MAFFT : maxbin_C_contigs_more_than_300bp_008_16S_extracted.fasta
+✅ Fichier aligné sauvegardé dans : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_evaluation/aligned/C_contigs_more_than_300bp/maxbin/maxbin_C_contigs_more_than_300bp_008_aligned.fasta
+🧬 Alignement MAFFT : maxbin_C_contigs_more_than_300bp_012_16S_extracted.fasta
+✅ Fichier aligné sauvegardé dans : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_evaluation/aligned/C_contigs_more_than_300bp/maxbin/maxbin_C_contigs_more_than_300bp_012_aligned.fasta
+🧬 Alignement MAFFT : maxbin_C_contigs_more_than_300bp_014_16S_extracted.fasta
+✅ Fichier aligné sauvegardé dans : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_evaluation/aligned/C_contigs_more_than_300bp/maxbin/maxbin_C_contigs_more_than_300bp_014_aligned.fasta
+🖼️ [maxbin/C_contigs_more_than_300bp] Génération des visualisations
+⚠️ Erreur lecture maxbin_C_contigs_more_than_300bp_001_aligned.fasta : No records found in handle
+⚠️ Erreur lecture maxbin_C_contigs_more_than_300bp_003_aligned.fasta : No records found in handle
+⚠️ Erreur lecture maxbin_C_contigs_more_than_300bp_009_aligned.fasta : No records found in handle
+✅ Visualisation sauvegardée : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_evaluation/plots/C_contigs_more_than_300bp/maxbin/maxbin_C_contigs_more_than_300bp_010_alignment.png
+⚠️ Erreur lecture maxbin_C_contigs_more_than_300bp_011_aligned.fasta : No records found in handle
+⚠️ Erreur lecture maxbin_C_contigs_more_than_300bp_013_aligned.fasta : No records found in handle
+✅ Visualisation sauvegardée : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_evaluation/plots/C_contigs_more_than_300bp/maxbin/maxbin_C_contigs_more_than_300bp_015_alignment.png
+⚠️ Erreur lecture maxbin_C_contigs_more_than_300bp_016_aligned.fasta : No records found in handle
+⚠️ Erreur lecture maxbin_C_contigs_more_than_300bp_002_aligned.fasta : No records found in handle
+⚠️ Erreur lecture maxbin_C_contigs_more_than_300bp_004_aligned.fasta : No records found in handle
+✅ Visualisation sauvegardée : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_evaluation/plots/C_contigs_more_than_300bp/maxbin/maxbin_C_contigs_more_than_300bp_005_alignment.png
+⚠️ Erreur lecture maxbin_C_contigs_more_than_300bp_006_aligned.fasta : No records found in handle
+✅ Visualisation sauvegardée : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_evaluation/plots/C_contigs_more_than_300bp/maxbin/maxbin_C_contigs_more_than_300bp_007_alignment.png
+⚠️ Erreur lecture maxbin_C_contigs_more_than_300bp_008_aligned.fasta : No records found in handle
+⚠️ Erreur lecture maxbin_C_contigs_more_than_300bp_012_aligned.fasta : No records found in handle
+✅ Visualisation sauvegardée : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_evaluation/plots/C_contigs_more_than_300bp/maxbin/maxbin_C_contigs_more_than_300bp_014_alignment.png
+📊 [maxbin/C_contigs_more_than_300bp] Calcul des matrices d'identité
+⚠️ Pas assez de séquences dans maxbin_C_contigs_more_than_300bp_001_aligned.fasta pour calculer une matrice.
+⚠️ Pas assez de séquences dans maxbin_C_contigs_more_than_300bp_003_aligned.fasta pour calculer une matrice.
+⚠️ Pas assez de séquences dans maxbin_C_contigs_more_than_300bp_009_aligned.fasta pour calculer une matrice.
+⚠️ Pas assez de séquences dans maxbin_C_contigs_more_than_300bp_010_aligned.fasta pour calculer une matrice.
+⚠️ Pas assez de séquences dans maxbin_C_contigs_more_than_300bp_011_aligned.fasta pour calculer une matrice.
+⚠️ Pas assez de séquences dans maxbin_C_contigs_more_than_300bp_013_aligned.fasta pour calculer une matrice.
+✅ Matrice d'identité sauvegardée : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_evaluation/identity/C_contigs_more_than_300bp/maxbin/maxbin_C_contigs_more_than_300bp_015_identity_matrix.tsv
+⚠️ Pas assez de séquences dans maxbin_C_contigs_more_than_300bp_016_aligned.fasta pour calculer une matrice.
+⚠️ Pas assez de séquences dans maxbin_C_contigs_more_than_300bp_002_aligned.fasta pour calculer une matrice.
+⚠️ Pas assez de séquences dans maxbin_C_contigs_more_than_300bp_004_aligned.fasta pour calculer une matrice.
+⚠️ Pas assez de séquences dans maxbin_C_contigs_more_than_300bp_005_aligned.fasta pour calculer une matrice.
+⚠️ Pas assez de séquences dans maxbin_C_contigs_more_than_300bp_006_aligned.fasta pour calculer une matrice.
+✅ Matrice d'identité sauvegardée : /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_evaluation/identity/C_contigs_more_than_300bp/maxbin/maxbin_C_contigs_more_than_300bp_007_identity_matrix.tsv
+⚠️ Pas assez de séquences dans maxbin_C_contigs_more_than_300bp_008_aligned.fasta pour calculer une matrice.
+⚠️ Pas assez de séquences dans maxbin_C_contigs_more_than_300bp_012_aligned.fasta pour calculer une matrice.
+⚠️ Pas assez de séquences dans maxbin_C_contigs_more_than_300bp_014_aligned.fasta pour calculer une matrice.
+✅ [maxbin/C_contigs_more_than_300bp] Terminé

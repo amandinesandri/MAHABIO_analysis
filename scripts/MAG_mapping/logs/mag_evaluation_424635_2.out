@@ -1,0 +1,18 @@
+=== Lancement CompareM Amerged_MAG_infoAI pour semibin/Fk_contigs_more_than_300bp ===
+[2025-05-02 19:56:01] INFO: CompareM v0.1.2
+[2025-05-02 19:56:01] INFO: comparem aai_wf /shared/home/asandri/MAHABIO_analysis/results/binning/dRep/semibin/Fk_contigs_more_than_300bp/dereplicated_genomes /shared/home/asandri/MAHABIO_analysis/results/binning/CompareM/semibin/Fk_contigs_more_than_300bp --cpus 16 --file_ext .fasta
+[2025-05-02 19:56:01] INFO: Identifying genes within genomes: 
+  Finished processing 0 of 4 (0.00%) genomes.  Finished processing 1 of 4 (25.00%) genomes.  Finished processing 2 of 4 (50.00%) genomes.  Finished processing 3 of 4 (75.00%) genomes.  Finished processing 4 of 4 (100.00%) genomes.
+[2025-05-02 19:56:20] INFO: Identified genes written to: /shared/home/asandri/MAHABIO_analysis/results/binning/CompareM/semibin/Fk_contigs_more_than_300bp/genes
+[2025-05-02 19:56:20] INFO: Appending genome identifiers to query genes.
+[2025-05-02 19:56:20] INFO: Creating DIAMOND database (be patient!).
+[2025-05-02 19:56:20] INFO: Performing self similarity sequence between genomes (be patient!).
+[2025-05-02 19:56:21] INFO: Sorting table with hits (be patient!).
+[2025-05-02 19:56:21] INFO: Sequence similarity results written to: /shared/home/asandri/MAHABIO_analysis/results/binning/CompareM/semibin/Fk_contigs_more_than_300bp/similarity
+[2025-05-02 19:56:21] INFO: Calculating length of genes.
+[2025-05-02 19:56:21] INFO: Indexing sorted hit table.
+[2025-05-02 19:56:21] INFO: Calculating AAI between all 6 pairs of genomes:
+  Finished processing 0 of 6 (0.00%) pairs.  Finished processing 0 of 6 (0.00%) pairs.  Finished processing 1 of 6 (16.67%) pairs.  Finished processing 3 of 6 (50.00%) pairs.  Finished processing 6 of 6 (100.00%) pairs.
+[2025-05-02 19:56:21] INFO: Summarizing AAI results.
+[2025-05-02 19:56:21] INFO: AAI between genomes written to: /shared/home/asandri/MAHABIO_analysis/results/binning/CompareM/semibin/Fk_contigs_more_than_300bp/aai/aai_summary.tsv
+=== FIN TACHE semibin/Fk_contigs_more_than_300bp ===

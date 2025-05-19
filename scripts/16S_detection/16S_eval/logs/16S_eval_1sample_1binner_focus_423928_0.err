@@ -1,0 +1,30 @@
+outputhat23=16
+treein = 0
+compacttree = 0
+Warning: Only 1 sequence found.
+minimumweight = 0.000010
+autosubalignment = 0.000000
+nthread = 0
+randomseed = 0
+blosum 62 / kimura 200
+poffset = 0
+niter = 16
+sueff_global = 0.100000
+nadd = 16
+Warning: Only 1 sequence found.
+
+Strategy:
+ L-INS-i (Probably most accurate, very slow)
+ Iterative refinement method (<16) with LOCAL pairwise alignment information
+
+If unsure which option to use, try 'mafft --auto input > output'.
+For more information, see 'mafft --help', 'mafft --man' and the mafft page.
+
+The default gap scoring scheme has been changed in version 7.110 (2013 Oct).
+It tends to insert more gaps into gap-rich regions than previous versions.
+To disable this change, add the --leavegappyregion option.
+
+/shared/home/asandri/MAHABIO_analysis/scripts/16S_detection/16S_eval/plot_16S_alignment.py:31: UserWarning: Tight layout not applied. The bottom and top margins cannot be made large enough to accommodate all Axes decorations.
+  plt.tight_layout()
+/shared/home/asandri/miniforge3/envs/mahabio_env/lib/python3.10/site-packages/Bio/pairwise2.py:278: BiopythonDeprecationWarning: Bio.pairwise2 has been deprecated, and we intend to remove it in a future release of Biopython. As an alternative, please consider using Bio.Align.PairwiseAligner as a replacement, and contact the Biopython developers if you still need the Bio.pairwise2 module.
+  warnings.warn(

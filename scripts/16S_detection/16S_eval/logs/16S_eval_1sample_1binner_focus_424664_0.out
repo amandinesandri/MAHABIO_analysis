@@ -1,0 +1,7 @@
+🚀 Début du job array 0
+🔍 [semibin/C_contigs_more_than_300bp] Filtrage des bins divergents
+🧬 [semibin/C_contigs_more_than_300bp] Alignement par bin
+⚠️  Moins de 2 séquences dans semibin_C_contigs_more_than_300bp_19_16S_extracted.fasta, alignement MAFFT ignoré.
+🖼️ [semibin/C_contigs_more_than_300bp] Génération des visualisations
+📊 [semibin/C_contigs_more_than_300bp] Calcul des matrices d'identité
+✅ [semibin/C_contigs_more_than_300bp] Terminé

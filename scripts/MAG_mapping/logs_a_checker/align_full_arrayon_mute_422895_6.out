@@ -1,0 +1,22 @@
+✅ Job SLURM démarré : Task ID 6
+🧬 Activation de l'environnement Conda
+🔧 Chargement des modules minimap2, bwa, samtools
+📂 Construction de la liste des MAGs
+🔍 MAG sélectionné : C_contigs_more_than_300bp_maxbin.007.fasta
+📌 Méthode : maxbin | Échantillon : C
+📥 Reads short : /shared/home/asandri/MAHABIO/data//C_R1.fastq.gz / /shared/home/asandri/MAHABIO/data//C_R2.fastq.gz
+📥 Reads long  : /shared/home/asandri/MAHABIO/data//C.fastq.gz
+📦 Détection du format du MAG
+/shared/home/asandri/MAHABIO_analysis/results/binning//maxbin/C_contigs_more_than_300bp/C_contigs_more_than_300bp_maxbin.007.fasta
+C_contigs_more_than_300bp_maxbin.007.fasta
+C_contigs_more_than_300bp_maxbin.007
+C_contigs_more_than_300bp_maxbin.007
+🔄 Mapping des long reads avec minimap2
+
+
+🔄 Indexation BWA
+
+🔄 Mapping des short reads avec BWA MEM
+
+
+✅ Terminé : MAG C_contigs_more_than_300bp_maxbin.007.fasta aligné et BAMs créés pour C (TaskID=6)

@@ -1,0 +1,4 @@
+/shared/home/asandri/miniforge3/envs/mahabio_env/lib/python3.10/site-packages/seaborn/distributions.py:267: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  baselines[cols] = curves[cols].shift(1, axis=1).fillna(0)
+/shared/home/asandri/MAHABIO_analysis/scripts/MAG_mapping/2-1-MAG_size_stat.py:56: UserWarning: Tight layout not applied. The bottom and top margins cannot be made large enough to accommodate all Axes decorations.
+  plt.tight_layout()

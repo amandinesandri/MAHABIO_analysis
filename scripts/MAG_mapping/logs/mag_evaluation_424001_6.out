@@ -1,0 +1,18 @@
+=== Lancement CompareM Amerged_MAG_infoAI pour vamb/Sj_contigs_more_than_300bp ===
+[2025-05-02 05:06:48] INFO: CompareM v0.1.2
+[2025-05-02 05:06:48] INFO: comparem aai_wf /shared/home/asandri/MAHABIO_analysis/results/binning/dRep/vamb/Sj_contigs_more_than_300bp/dereplicated_genomes /shared/home/asandri/MAHABIO_analysis/results/binning/CompareM/vamb/Sj_contigs_more_than_300bp --cpus 16
+[2025-05-02 05:06:48] INFO: Identifying genes within genomes: 
+  Finished processing 0 of 10 (0.00%) genomes.  Finished processing 1 of 10 (10.00%) genomes.  Finished processing 2 of 10 (20.00%) genomes.  Finished processing 3 of 10 (30.00%) genomes.  Finished processing 4 of 10 (40.00%) genomes.  Finished processing 5 of 10 (50.00%) genomes.  Finished processing 6 of 10 (60.00%) genomes.  Finished processing 7 of 10 (70.00%) genomes.  Finished processing 8 of 10 (80.00%) genomes.  Finished processing 9 of 10 (90.00%) genomes.  Finished processing 10 of 10 (100.00%) genomes.
+[2025-05-02 05:07:37] INFO: Identified genes written to: /shared/home/asandri/MAHABIO_analysis/results/binning/CompareM/vamb/Sj_contigs_more_than_300bp/genes
+[2025-05-02 05:07:37] INFO: Appending genome identifiers to query genes.
+[2025-05-02 05:07:38] INFO: Creating DIAMOND database (be patient!).
+[2025-05-02 05:07:38] INFO: Performing self similarity sequence between genomes (be patient!).
+[2025-05-02 05:07:44] INFO: Sorting table with hits (be patient!).
+[2025-05-02 05:07:44] INFO: Sequence similarity results written to: /shared/home/asandri/MAHABIO_analysis/results/binning/CompareM/vamb/Sj_contigs_more_than_300bp/similarity
+[2025-05-02 05:07:44] INFO: Calculating length of genes.
+[2025-05-02 05:07:44] INFO: Indexing sorted hit table.
+[2025-05-02 05:07:44] INFO: Calculating AAI between all 45 pairs of genomes:
+  Finished processing 0 of 45 (0.00%) pairs.  Finished processing 0 of 45 (0.00%) pairs.  Finished processing 1 of 45 (2.22%) pairs.  Finished processing 3 of 45 (6.67%) pairs.  Finished processing 8 of 45 (17.78%) pairs.  Finished processing 11 of 45 (24.44%) pairs.  Finished processing 15 of 45 (33.33%) pairs.  Finished processing 21 of 45 (46.67%) pairs.  Finished processing 30 of 45 (66.67%) pairs.  Finished processing 38 of 45 (84.44%) pairs.  Finished processing 45 of 45 (100.00%) pairs.
+[2025-05-02 05:07:45] INFO: Summarizing AAI results.
+[2025-05-02 05:07:45] INFO: AAI between genomes written to: /shared/home/asandri/MAHABIO_analysis/results/binning/CompareM/vamb/Sj_contigs_more_than_300bp/aai/aai_summary.tsv
+=== FIN TACHE vamb/Sj_contigs_more_than_300bp ===

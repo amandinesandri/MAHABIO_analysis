@@ -9,6 +9,15 @@
 
 # Activation de l'environnement conda
 source activate mahabio_env
+echo "🛠️ Création d’un wrapper temporaire semibin (si besoin)"
+export SEMIBIN_WRAPPER="$CONDA_PREFIX/bin/semibin"
+if [ ! -f "$SEMIBIN_WRAPPER" ]; then
+    echo -e "#!/bin/bash\npython -m SemiBin.main \"\$@\"" > "$SEMIBIN_WRAPPER"
+    chmod +x "$SEMIBIN_WRAPPER"
+    echo "✅ Wrapper créé à : $SEMIBIN_WRAPPER"
+else
+    echo "🔹 Wrapper déjà existant"
+fi
 
 # Paramètres
 contig_files=(
@@ -36,10 +45,10 @@ mkdir -p "$OUTDIR"
 echo "=== Traitement de $BASENAME avec SemiBin ==="
 
 semibin single_easy_bin \
-  --contig "$CTG" \
-  --bam "$BAM" \
-  --outdir "$OUTDIR" \
+  -i "$CTG" \
+  -b "$BAM" \
+  -o "$OUTDIR" \
   --threads 16 \
   --environment soil
-
+  
 echo "=== Fin du traitement de $BASENAME ==="

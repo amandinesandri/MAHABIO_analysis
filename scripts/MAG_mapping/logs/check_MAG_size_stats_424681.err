@@ -1,0 +1,14 @@
+Traceback (most recent call last):
+  File "/shared/home/asandri/MAHABIO_analysis/scripts/MAG_mapping/2-1-MAG_size_stat.py", line 10, in <module>
+    df = pd.read_csv(input_file, sep="\t")
+  File "/shared/home/asandri/miniforge3/envs/mahabio_env/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 1026, in read_csv
+    return _read(filepath_or_buffer, kwds)
+  File "/shared/home/asandri/miniforge3/envs/mahabio_env/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 620, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+  File "/shared/home/asandri/miniforge3/envs/mahabio_env/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 1620, in __init__
+    self._engine = self._make_engine(f, self.engine)
+  File "/shared/home/asandri/miniforge3/envs/mahabio_env/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 1880, in _make_engine
+    self.handles = get_handle(
+  File "/shared/home/asandri/miniforge3/envs/mahabio_env/lib/python3.10/site-packages/pandas/io/common.py", line 873, in get_handle
+    handle = open(
+FileNotFoundError: [Errno 2] No such file or directory: '/shared/home/asandri/MAHABIO_analysis/results/MAG_mappings/MAG_sizes.tsv'

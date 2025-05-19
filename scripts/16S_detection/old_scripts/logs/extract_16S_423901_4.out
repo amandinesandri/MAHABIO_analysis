@@ -1,0 +1,1648 @@
+⏱️ Job lancé le : 2025-05-01 15:03:43
+🔍 Extraction pour vamb/C_contigs_more_than_300bp
+
+✅ on est où???
+/shared/home/asandri/MAHABIO_analysis/scripts/16S_detection/old_scripts
+
+
+✅ args.output_root c'est ... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_extracted
+
+
+✅ le binner  path c'est ... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/semibin
+
+
+✅ le sample  path c'est ... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/semibin/Sj_contigs_more_than_300bp
+
+
+✅ le output dir on attend que ça.. :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_extracted/semibin/Sj_contigs_more_than_300bp
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/semibin/Sj_contigs_more_than_300bp/SemiBin_0.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/semibin/Sj_contigs_more_than_300bp/SemiBin_1.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/semibin/Sj_contigs_more_than_300bp/SemiBin_2.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/semibin/Sj_contigs_more_than_300bp/SemiBin_3.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/semibin/Sj_contigs_more_than_300bp/SemiBin_4.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/semibin/Sj_contigs_more_than_300bp/SemiBin_7.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/semibin/Sj_contigs_more_than_300bp/SemiBin_9.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/semibin/Sj_contigs_more_than_300bp/SemiBin_11.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/semibin/Sj_contigs_more_than_300bp/SemiBin_8.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/semibin/Sj_contigs_more_than_300bp/SemiBin_12.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/semibin/Sj_contigs_more_than_300bp/SemiBin_6.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/semibin/Sj_contigs_more_than_300bp/SemiBin_14.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/semibin/Sj_contigs_more_than_300bp/SemiBin_5.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/semibin/Sj_contigs_more_than_300bp/SemiBin_10.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/semibin/Sj_contigs_more_than_300bp/SemiBin_16.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/semibin/Sj_contigs_more_than_300bp/SemiBin_17.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/semibin/Sj_contigs_more_than_300bp/SemiBin_18.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/semibin/Sj_contigs_more_than_300bp/SemiBin_19.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/semibin/Sj_contigs_more_than_300bp/SemiBin_20.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/semibin/Sj_contigs_more_than_300bp/SemiBin_21.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/semibin/Sj_contigs_more_than_300bp/SemiBin_25.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/semibin/Sj_contigs_more_than_300bp/SemiBin_26.fasta
+
+
+✅ le sample  path c'est ... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/semibin/Fk_contigs_more_than_300bp
+
+
+✅ le output dir on attend que ça.. :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_extracted/semibin/Fk_contigs_more_than_300bp
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/semibin/Fk_contigs_more_than_300bp/SemiBin_0.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/semibin/Fk_contigs_more_than_300bp/SemiBin_1.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/semibin/Fk_contigs_more_than_300bp/SemiBin_4.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/semibin/Fk_contigs_more_than_300bp/SemiBin_5.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/semibin/Fk_contigs_more_than_300bp/SemiBin_6.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/semibin/Fk_contigs_more_than_300bp/SemiBin_10.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/semibin/Fk_contigs_more_than_300bp/SemiBin_13.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/semibin/Fk_contigs_more_than_300bp/SemiBin_15.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/semibin/Fk_contigs_more_than_300bp/SemiBin_16.fasta
+
+
+✅ le sample  path c'est ... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/semibin/C_contigs_more_than_300bp
+
+
+✅ le output dir on attend que ça.. :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_extracted/semibin/C_contigs_more_than_300bp
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/semibin/C_contigs_more_than_300bp/SemiBin_0.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/semibin/C_contigs_more_than_300bp/SemiBin_1.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/semibin/C_contigs_more_than_300bp/SemiBin_2.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/semibin/C_contigs_more_than_300bp/SemiBin_3.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/semibin/C_contigs_more_than_300bp/SemiBin_4.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/semibin/C_contigs_more_than_300bp/SemiBin_5.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/semibin/C_contigs_more_than_300bp/SemiBin_6.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/semibin/C_contigs_more_than_300bp/SemiBin_7.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/semibin/C_contigs_more_than_300bp/SemiBin_8.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/semibin/C_contigs_more_than_300bp/SemiBin_9.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/semibin/C_contigs_more_than_300bp/SemiBin_10.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/semibin/C_contigs_more_than_300bp/SemiBin_11.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/semibin/C_contigs_more_than_300bp/SemiBin_15.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/semibin/C_contigs_more_than_300bp/SemiBin_16.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/semibin/C_contigs_more_than_300bp/SemiBin_17.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/semibin/C_contigs_more_than_300bp/SemiBin_18.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/semibin/C_contigs_more_than_300bp/SemiBin_19.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/semibin/C_contigs_more_than_300bp/SemiBin_21.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/semibin/C_contigs_more_than_300bp/SemiBin_22.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/semibin/C_contigs_more_than_300bp/SemiBin_24.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/semibin/C_contigs_more_than_300bp/SemiBin_28.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/semibin/C_contigs_more_than_300bp/SemiBin_29.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/semibin/C_contigs_more_than_300bp/SemiBin_39.fasta
+
+
+✅ le binner  path c'est ... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/maxbin
+
+
+✅ le sample  path c'est ... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/maxbin/C_contigs_more_than_300bp
+
+
+✅ le output dir on attend que ça.. :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_extracted/maxbin/C_contigs_more_than_300bp
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/maxbin/C_contigs_more_than_300bp/C_contigs_more_than_300bp_maxbin.001.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/maxbin/C_contigs_more_than_300bp/C_contigs_more_than_300bp_maxbin.003.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/maxbin/C_contigs_more_than_300bp/C_contigs_more_than_300bp_maxbin.009.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/maxbin/C_contigs_more_than_300bp/C_contigs_more_than_300bp_maxbin.010.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/maxbin/C_contigs_more_than_300bp/C_contigs_more_than_300bp_maxbin.011.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/maxbin/C_contigs_more_than_300bp/C_contigs_more_than_300bp_maxbin.013.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/maxbin/C_contigs_more_than_300bp/C_contigs_more_than_300bp_maxbin.015.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/maxbin/C_contigs_more_than_300bp/C_contigs_more_than_300bp_maxbin.016.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/maxbin/C_contigs_more_than_300bp/C_contigs_more_than_300bp_maxbin.002.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/maxbin/C_contigs_more_than_300bp/C_contigs_more_than_300bp_maxbin.004.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/maxbin/C_contigs_more_than_300bp/C_contigs_more_than_300bp_maxbin.005.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/maxbin/C_contigs_more_than_300bp/C_contigs_more_than_300bp_maxbin.006.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/maxbin/C_contigs_more_than_300bp/C_contigs_more_than_300bp_maxbin.007.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/maxbin/C_contigs_more_than_300bp/C_contigs_more_than_300bp_maxbin.008.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/maxbin/C_contigs_more_than_300bp/C_contigs_more_than_300bp_maxbin.012.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/maxbin/C_contigs_more_than_300bp/C_contigs_more_than_300bp_maxbin.014.fasta
+
+
+✅ le binner  path c'est ... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb
+
+
+✅ le sample  path c'est ... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/C_contigs_more_than_300bp
+
+
+✅ le output dir on attend que ça.. :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_extracted/vamb/C_contigs_more_than_300bp
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/C_contigs_more_than_300bp/48985.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/C_contigs_more_than_300bp/12287.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/C_contigs_more_than_300bp/42499.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/C_contigs_more_than_300bp/21556.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/C_contigs_more_than_300bp/22822.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/C_contigs_more_than_300bp/3886.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/C_contigs_more_than_300bp/28207.fasta
+
+
+✅ le sample  path c'est ... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Fk_contigs_more_than_300bp
+
+
+✅ le output dir on attend que ça.. :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_extracted/vamb/Fk_contigs_more_than_300bp
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Fk_contigs_more_than_300bp/2.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Fk_contigs_more_than_300bp/9.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Fk_contigs_more_than_300bp/21.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Fk_contigs_more_than_300bp/3.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Fk_contigs_more_than_300bp/11.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Fk_contigs_more_than_300bp/28.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Fk_contigs_more_than_300bp/14.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Fk_contigs_more_than_300bp/31.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Fk_contigs_more_than_300bp/20.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Fk_contigs_more_than_300bp/29.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Fk_contigs_more_than_300bp/8.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Fk_contigs_more_than_300bp/27.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Fk_contigs_more_than_300bp/16.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Fk_contigs_more_than_300bp/32.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Fk_contigs_more_than_300bp/6.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Fk_contigs_more_than_300bp/15.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Fk_contigs_more_than_300bp/17.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Fk_contigs_more_than_300bp/7.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Fk_contigs_more_than_300bp/33.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Fk_contigs_more_than_300bp/30.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Fk_contigs_more_than_300bp/26.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Fk_contigs_more_than_300bp/4.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Fk_contigs_more_than_300bp/5.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Fk_contigs_more_than_300bp/22.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Fk_contigs_more_than_300bp/24.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Fk_contigs_more_than_300bp/19.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Fk_contigs_more_than_300bp/10.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Fk_contigs_more_than_300bp/23.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Fk_contigs_more_than_300bp/12.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Fk_contigs_more_than_300bp/13.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Fk_contigs_more_than_300bp/1.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Fk_contigs_more_than_300bp/25.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Fk_contigs_more_than_300bp/18.fasta
+
+
+✅ le sample  path c'est ... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp
+
+
+✅ le output dir on attend que ça.. :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_extracted/vamb/Sj_contigs_more_than_300bp
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/50.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/192.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/280.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/178.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/61.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/163.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/188.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/2.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/196.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/92.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/63.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/57.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/209.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/169.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/248.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/9.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/256.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/208.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/54.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/125.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/198.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/75.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/66.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/165.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/255.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/43.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/258.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/21.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/93.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/228.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/59.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/3.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/71.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/11.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/28.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/114.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/251.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/142.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/14.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/161.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/263.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/246.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/218.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/216.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/31.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/153.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/164.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/20.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/275.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/74.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/194.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/47.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/102.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/46.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/35.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/126.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/213.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/90.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/279.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/238.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/53.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/232.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/269.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/42.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/116.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/62.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/34.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/242.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/29.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/190.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/8.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/155.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/64.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/113.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/27.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/191.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/150.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/260.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/96.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/16.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/103.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/241.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/144.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/184.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/32.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/231.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/56.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/124.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/6.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/174.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/171.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/273.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/253.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/131.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/172.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/278.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/239.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/215.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/270.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/158.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/276.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/217.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/120.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/15.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/259.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/180.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/127.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/214.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/160.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/221.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/202.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/136.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/233.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/193.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/73.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/166.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/105.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/206.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/170.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/70.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/118.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/175.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/152.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/38.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/98.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/65.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/17.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/147.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/128.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/7.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/229.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/33.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/159.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/40.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/132.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/30.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/148.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/123.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/26.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/135.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/179.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/85.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/88.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/72.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/133.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/139.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/267.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/151.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/266.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/244.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/121.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/51.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/83.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/225.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/167.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/86.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/119.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/230.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/265.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/261.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/252.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/41.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/237.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/117.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/182.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/189.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/4.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/183.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/162.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/168.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/108.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/45.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/52.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/36.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/226.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/138.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/5.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/146.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/22.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/24.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/187.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/37.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/272.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/145.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/254.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/60.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/177.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/80.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/79.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/111.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/204.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/19.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/78.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/104.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/249.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/10.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/109.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/89.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/203.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/185.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/250.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/199.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/91.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/264.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/240.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/274.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/39.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/245.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/23.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/115.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/223.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/134.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/227.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/44.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/101.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/68.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/140.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/201.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/87.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/58.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/243.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/67.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/110.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/112.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/224.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/130.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/84.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/220.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/12.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/137.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/77.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/235.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/195.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/99.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/211.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/236.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/107.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/141.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/210.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/186.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/13.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/100.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/76.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/55.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/94.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/222.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/95.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/268.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/143.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/149.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/197.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/247.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/1.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/207.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/173.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/176.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/69.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/205.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/257.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/48.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/97.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/234.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/212.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/122.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/277.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/200.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/49.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/25.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/18.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/157.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/219.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/82.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/156.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/181.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/129.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/81.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/154.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/106.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/271.fasta
+
+
+✅ le fasta path... :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_detection/vamb/Sj_contigs_more_than_300bp/262.fasta
+
+
+✅ le failures_dir .. :??
+/shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_extracted/failures
+
+
+⚠️ Échecs enregistrés dans /shared/home/asandri/MAHABIO_analysis/results/binning/Affiliation/16S_extracted/failures/failures.tsv
+
+✅ Extraction terminée pour tous les bins !
+✅ Job terminé le : 2025-05-01 15:03:47
+⏳ Durée totale : 0h 0min 4s
